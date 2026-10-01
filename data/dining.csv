@@ -1,0 +1,1514 @@
+pavilion,venue,service_type,signature,price_tier,status,item,section,price,cuisine_code,note
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Sopa Azteca,appetizer,$13.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Costillas de Elote,appetizer,$15.00,ADAPTED,"corn ribs, a modern invention using Mexican seasonings"
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Guacamole,appetizer,$16.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Gordita,appetizer,$16.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Queso Fundido,appetizer,$16.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Tostadas de Pollo,appetizer,$16.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Totopos,appetizer,$10.00,NATIVE,totopos are Mexican; served with white cheddar rather than a Mexican cheese
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Pollo a Las Rajas,entree,$33.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Huarache Vegetariano,entree,$22.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Tacos,entree,Market Price,NATIVE,alambre-style; Monterey Jack substituted for a Mexican cheese
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Ensalada Cesar,entree,$20.00,UNCLEAR,"Caesar salad was invented in Tijuana, Mexico, but is not part of Mexican culinary tradition"
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Enchiladas de Pollo,entree,$32.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Baja Tacos de Pescado,entree,$33.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Carne Asada,entree,$54.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Pescado A La Veracruzana,entree,$39.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Osso Buco Con Mole Negro,entree,$39.00,ADAPTED,Italian braised shank cut served with Mexican mole negro
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Pan de Elote Tres Leches,dessert,$12.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Flan,dessert,$12.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Nieve,dessert,$10.00,NATIVE,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Brownie Sundae,dessert,$12.00,GENERIC,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Helado de Palomitas,dessert,$10.00,ADAPTED,sweet corn ice cream with popcorn and chile powder; invented dessert on Mexican flavor base
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Celebration Cake,dessert,$39.00,GENERIC,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Jr Garden Salad,appetizer,$4.00,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Fruit,appetizer,$3.50,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Beef Tacos,entree,$16.00,NATIVE,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Chicken Tacos,entree,$13.50,NATIVE,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Quesadillas,entree,$12.00,NATIVE,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Grilled Chicken Breast,entree,$12.25,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Chicken Tenders,entree,$13.00,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Macaroni & Cheese,entree,$13.00,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Chocolate Brownie,dessert,$6.00,GENERIC,kids menu
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Dulce de Leche Ice Cream,dessert,$5.00,ADAPTED,dulce de leche is Latin American; ice cream format is not traditional
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,San Angel Inn Margarita,beverage,$24.00,ADAPTED,"tequila base, invented house cocktail"
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Black Magic,beverage,$21.00,ADAPTED,invented celebrity cocktail on a mezcal base
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,La Cava Avocado,beverage,$19.00,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,El Diablo,beverage,$18.25,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,The Cucumber,beverage,$19.00,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Blood Orange,beverage,$19.00,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,The Wild One,beverage,$19.00,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Clasica,beverage,$18.00,NATIVE,classic margarita
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,La Flaca,beverage,$20.00,ADAPTED,
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,La Paloma,beverage,$19.00,NATIVE,classic Mexican highball
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,San Angel Inn Premium Tequila Flight,beverage,$40.00,NATIVE,Mexican tequilas
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Traditional Tequila Flight,beverage,$25.00,NATIVE,Mexican tequilas
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Mezcal Tequila Flight,beverage,$21.00,NATIVE,Mexican mezcals
+Mexico,San Angel Inn Restaurante,table service,no,$$,open,Create Your Own Margarita Flight,beverage,$38.00,ADAPTED,flight of invented house margaritas
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Guacamole,appetizer,$16.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Flautas,appetizer,$16.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Totopos,appetizer,$10.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Queso Fundido,appetizer,$16.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Carne Asada Tlayuda,appetizer,$17.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Ensalada Hacienda,appetizer,$15.00,ADAPTED,house salad built on Mexican ingredients
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Empanada de Chorizo,appetizer,$15.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Pescado del Dia,entree,$42.00,UNCLEAR,"catch of the day; preparation not published, so provenance cannot be determined"
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Osso Buco a la Mexicana,entree,$49.00,ADAPTED,Italian cut prepared with Mexican seasonings
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Carne Asada,entree,$54.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Parrillada del Mar,entree,$80.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Parillada La Hacienda,entree,$80.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Cowboy Ribeye for Two,entree,$112.00,GENERIC,American steakhouse cut and format
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Pollo Poblano,entree,$33.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Alambre,entree,$36.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Tacos de Camaron,entree,$33.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Beef Brisket Tacos,entree,$38.00,ADAPTED,American barbecue brisket served in taco format
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Enchiladas de Chorizo,entree,$32.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Tacos al Pastor,entree,$35.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Esquites,side,$7.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Plantains,side,$5.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Rice,side,$5.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Beans,side,$5.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Mashed potatoes with cotija cheese,side,$8.00,ADAPTED,American side dressed with a Mexican cheese
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Seasonal Mushrooms,side,$9.00,GENERIC,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Flan,dessert,$12.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Pan de Elotes Tres Leches,dessert,$12.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Helado De Palomitas,dessert,$10.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Nieve,dessert,$10.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Helado con Churros,dessert,$11.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Celebration Cake,dessert,$39.00,GENERIC,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Jr Garden Salad,appetizer,$4.00,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Fruit,appetizer,$3.50,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Beef Tacos,entree,$16.00,NATIVE,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Tacos,entree,$13.50,NATIVE,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Quesadillas,entree,$12.00,NATIVE,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Grilled Chicken Breast,entree,$13.25,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Chicken Tenders,entree,$13.00,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Macaroni & Cheese,entree,$13.00,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Chocolate Brownie,dessert,$6.00,GENERIC,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Dulce de Leche Ice Cream,dessert,$5.00,ADAPTED,kids menu
+Mexico,La Hacienda de San Angel,table service,no,$$,open,San Angel Inn Margarita,beverage,$24.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,La Cava Avocado,beverage,$19.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,El Diablo,beverage,$18.25,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,It Takes Two to Mango,beverage,$19.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,The Cucumber,beverage,$19.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Blood Orange,beverage,$19.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,The Wild One,beverage,$19.00,ADAPTED,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,Clasica,beverage,$18.00,NATIVE,classic margarita
+Mexico,La Hacienda de San Angel,table service,no,$$,open,La Hacienda Smoked Old Fashioned,beverage,$28.00,GENERIC,Old Fashioned is an American cocktail
+Mexico,La Hacienda de San Angel,table service,no,$$,open,La Paloma,beverage,$19.00,NATIVE,
+Mexico,La Hacienda de San Angel,table service,no,$$,open,La Flaca,beverage,$20.00,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Arroz Bowl with Marinated Grilled Chicken,entree,$15.00,ADAPTED,rice bowl format built on Mexican components
+Mexico,La Cantina de San Angel,quick service,no,$,open,Arroz Bowl with Barbacoa Beef or Shrimp,entree,$15.75,ADAPTED,rice bowl format built on Mexican components
+Mexico,La Cantina de San Angel,quick service,no,$,open,Tacos de Barbacoa,entree,$16.50,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Tacos de Pollo,entree,$15.75,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Tacos de Camaron,entree,$16.00,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Taco Trio,entree,$16.25,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Empanadas con Queso,entree,$15.00,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Nachos,entree,$15.75,ADAPTED,"nachos originated in Piedras Negras, Mexico, but the park version uses Tex-Mex nacho cheese sauce"
+Mexico,La Cantina de San Angel,quick service,no,$,open,Guacamole with Totopos,entree,$12.50,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Rice,side,$3.49,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Black Beans,side,$3.49,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Fried Plantains,side,$5.49,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Guacamole,side,$6.99,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Sour Cream,side,$0.75,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Nacho Cheese,side,$0.75,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Empanadas con Queso,entree,$9.50,NATIVE,kids menu
+Mexico,La Cantina de San Angel,quick service,no,$,open,Chicken Tenders,entree,$9.50,GENERIC,kids menu
+Mexico,La Cantina de San Angel,quick service,no,$,open,Chicken Tacos,entree,$9.50,NATIVE,kids menu
+Mexico,La Cantina de San Angel,quick service,no,$,open,Macaroni & Cheese,entree,$9.50,GENERIC,kids menu
+Mexico,La Cantina de San Angel,quick service,no,$,open,Churros,dessert,$6.50,NATIVE,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Churro Sundae,dessert,$7.99,ADAPTED,churro reworked as an American sundae
+Mexico,La Cantina de San Angel,quick service,no,$,open,Mickey Ice Cream Sandwich,dessert,$6.50,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,La Cantina Slushy,beverage,$6.00,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Jarritos - Traditional Mexican Soda,beverage,$4.25,NATIVE,Mexican soft drink brand
+Mexico,La Cantina de San Angel,quick service,no,$,open,Assorted Fountain Beverages,beverage,$4.75,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,DASANI Bottled Water,beverage,$3.75,GENERIC,
+Mexico,La Cantina de San Angel,quick service,no,$,open,"""Top Shelf"" Clasica on the Rocks",beverage,$18.50,NATIVE,classic margarita
+Mexico,La Cantina de San Angel,quick service,no,$,open,Acapulco Colada,beverage,$17.00,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Churro Margarita,beverage,$18.00,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Frozen Mango Margarita,beverage,$14.50,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Frozen Lime Margarita,beverage,$14.50,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Tequila Sundae,beverage,$10.00,ADAPTED,
+Mexico,La Cantina de San Angel,quick service,no,$,open,Mexican Red Sangria,beverage,$14.00,UNCLEAR,"sangria is Spanish, not Mexican, but is marketed here as Mexican"
+Mexico,La Cantina de San Angel,quick service,no,$,open,Hercules Draft Beer,beverage,$13.00,NATIVE,Mexican brewery
+Mexico,La Cantina de San Angel,quick service,no,$,open,Seasonal Mexican Craft,beverage,$13.50,NATIVE,Mexican brewery
+Mexico,La Cantina de San Angel,quick service,no,$,open,Dos Equis Lager Draft Beer,beverage,$12.00,NATIVE,Mexican brewery
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,The Wild One,beverage,$19.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,La Cava Top Shelf,beverage,$24.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,The Cucumber,beverage,$19.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,The Vaquero's Falsetto,beverage,$24.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,La Paloma,beverage,$19.00,NATIVE,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,Malumita,beverage,$25.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,Blood Orange,beverage,$19.00,ADAPTED,
+Mexico,La Cava del Tequila,lounge/bar,no,$,open,Avocado,beverage,$21.00,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Top Shelf Clasica,beverage,$18.50,NATIVE,classic margarita
+Mexico,Choza de Margarita,lounge/bar,no,$,open,El Jefe,beverage,$18.00,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,The Cucumber,beverage,$18.25,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Blood Orange,beverage,$18.50,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Seasonal Margarita,beverage,$22.00,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Classic Lime (Frozen),beverage,$14.50,NATIVE,frozen classic margarita
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Mango Loco (Frozen),beverage,$14.50,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Strawberry (Frozen),beverage,$14.95,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Fiesta (Frozen),beverage,$15.25,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,El Jefe (Frozen),beverage,$18.00,ADAPTED,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Dos Equis,beverage,$12.00,NATIVE,Mexican brewery
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Hercules,beverage,$13.00,NATIVE,Mexican brewery
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Michelada,beverage,$14.00,NATIVE,Mexican beer preparation
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Dos Hombres Michelada,beverage,$17.00,NATIVE,Mexican beer preparation with mezcal
+Mexico,Choza de Margarita,lounge/bar,no,$,open,DASANI Bottled Water,beverage,$4.00,GENERIC,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Conga,beverage,$6.00,GENERIC,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Tacos de Cochinita,entree,$12.95,NATIVE,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Empanada de Barbacoa,entree,$13.75,NATIVE,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Guacamole,appetizer,$12.00,NATIVE,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Pastor Quesadillas,entree,$13.50,NATIVE,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Tostada de Pollo,entree,$11.95,NATIVE,
+Mexico,Choza de Margarita,lounge/bar,no,$,open,Elote,side,$8.00,NATIVE,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Lefse with Cinnamon Butter, Selection of Cheeses, Chilled Nordic Shrimp Salad, and Princess Garden Greens with Lingonberry Vinaigrette",appetizer,Included,NATIVE,"prix fixe $69 adult / $46 child; lefse, Nordic shrimp and lingonberry are Norwegian"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Kjottkaker med Tyttbaer Syltetoy: Norwegian Meatballs with Lingonberry Jam,entree,Included,NATIVE,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Sesongens Gronnsaker: Seasonal Vegetables,side,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Potetstappe Med Brun Saus: Mashed Potatoes and Brown Gravy,side,Included,NATIVE,potetstappe med brun saus is a Norwegian preparation
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Stekt Laks: Seared Salmon,entree,Included,NATIVE,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Kylling: Chicken,entree,Included,GENERIC,listed only as chicken; no Norwegian preparation published
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Macaroni & Cheese,entree,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Princess Garden Greens (plant-based),appetizer,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Plant-based Bread,side,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Sesongens Gronnsaker: Seasonal Vegetables (plant-based),side,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Olive-oil Mashed Potatoes,side,Included,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Plant-based Bratwurst,entree,Included,UNCLEAR,"bratwurst is German, not Norwegian, and is not American park food either"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Plant-based Apple Cake with Plant-based Vanilla Gelato,dessert,Included,ADAPTED,"eplekake base, reworked plant-based with gelato"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Plant-based Meatballs,entree,Included,ADAPTED,plant-based version of kjottkaker
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,The Royal Chef's Dessert Plate: An assortment of Norwegian-inspired Desserts,dessert,Included,ADAPTED,"Disney's own wording is Norwegian-inspired, not Norwegian"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Royal Berry Spritzer,beverage,$6.59,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Enchanted Grove Lime Splash,beverage,$6.29,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,So Many Wishes,beverage,$6.79,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Joffrey's Cold Brew Coffee,beverage,$5.49,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Northern Lights Cocktail,beverage,$21.50,ADAPTED,"Nordic theming, invented cocktail"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Blue Viking,beverage,$18.50,ADAPTED,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,The Bifrost,beverage,$18.50,ADAPTED,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,The Stavanger,beverage,$18.50,ADAPTED,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,The Oslo,beverage,$18.50,ADAPTED,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Linie Aquavit Glacier Shot,beverage,$16.50,NATIVE,Linie is a Norwegian aquavit
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Kornol Norwegian Farmhouse Ale Draft,beverage,$11.75,NATIVE,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Einstok White Ale,beverage,$12.25,UNCLEAR,"Einstok is Icelandic, so Nordic but not Norwegian"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Bud Light Lager,beverage,$9.75,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Bell's Two Hearted IPA,beverage,$12.50,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Stella Artois Lager,beverage,$12.25,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Breckenridge Brewery Vanilla Porter,beverage,$11.25,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Rekorderlig Pear Hard Cider,beverage,$12.75,UNCLEAR,"Rekorderlig is Swedish, so Nordic but not Norwegian"
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,Heineken 0.0 Non-Alcoholic Lager,beverage,$10.00,GENERIC,
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Simi Cabernet Sauvignon, Alexander Valley",beverage,$20.00 glass / $79.00 bottle,GENERIC,Californian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Fess Parker Pinot Noir, Sta. Rita Hills",beverage,$19.00 glass / $74.00 bottle,GENERIC,Californian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Chappellet Mountain Cuvee, Napa Valley",beverage,$25.00 glass / $98.00 bottle,GENERIC,Californian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Kurt Russell's GoGi Wines 'Goldie' Chardonnay, Sta. Rita Hills",beverage,$29.00 glass / $115.00 bottle,GENERIC,Californian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Scarpetta Pinot Grigio, Friuli",beverage,$17.00 glass / $67.00 bottle,GENERIC,Italian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Fess Parker Riesling, Santa Barbara County",beverage,$13.00 glass / $56.00 bottle,GENERIC,Californian wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Domaine Ste. Michelle Brut, Columbia Valley",beverage,$14.00 glass / $56.00 bottle,GENERIC,Washington State wine
+Norway,Akershus Royal Banquet Hall,table service,no,$$$$,open,"Banfi Rosa Regale Sparkling Red, Piedmont",beverage,$17.00 glass / $67.00 bottle,GENERIC,Italian wine
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Skolebrod,dessert,$5.49,NATIVE,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Norwegian Kringla,dessert,$7.49,NATIVE,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Rice Cream,dessert,$4.29,NATIVE,riskrem
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Lefse,dessert,$3.99,NATIVE,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Triple Chocolate Chip Cookie,dessert,$6.49,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Verden's Beste Kake,dessert,$4.89,NATIVE,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Eplekake,dessert,$4.99,NATIVE,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Cinnamon Roll with Orange Cream Cheese Icing,dessert,$7.49,ADAPTED,kanelbolle base with American-style cream cheese icing
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Assorted Fountain Beverages,beverage,$5.59,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Freshly Brewed Joffrey's Coffee,beverage,$4.79,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Joffrey's Cold Brew Coffee with Sweet Cream,beverage,$5.99,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Cold Crumb,beverage,$6.29,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Kristoff Kaffe,beverage,$6.99,ADAPTED,Frozen-themed coffee drink
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Coconut Cream Cold Brew,beverage,$14.50,GENERIC,
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Nordic Draft Beer,beverage,$12.25 to $13.75,UNCLEAR,listed only as Nordic; specific brewery and country not published
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Viking Coffee,beverage,$16.50,ADAPTED,spiked coffee with Nordic theming
+Norway,Kringla Bakeri og Kafe,quick service,no,$,open,Frozen Viking Coffee,beverage,$17.50,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Vegetable Spring Rolls,appetizer,$6.00,NATIVE,lunch price
+China,Nine Dragons Restaurant,table service,no,$$,open,Chicken Pot Stickers,appetizer,$9.00,NATIVE,lunch price
+China,Nine Dragons Restaurant,table service,no,$$,open,Smoked Duck Bao Buns,appetizer,$16.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Cheesy Crab Wontons,appetizer,$13.00,ADAPTED,crab rangoon is an American-Chinese invention
+China,Nine Dragons Restaurant,table service,no,$$,open,Ha Gao Shrimp Dumplings,appetizer,$12.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Chicken Pot Stickers,appetizer,$12.00,NATIVE,dinner price
+China,Nine Dragons Restaurant,table service,no,$$,open,Vegetable Spring Rolls,appetizer,$12.00,NATIVE,dinner price
+China,Nine Dragons Restaurant,table service,no,$$,open,Wontons in Chili Oil,appetizer,$14.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Sichuan Cucumbers,appetizer,$11.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Wonton Soup,appetizer,$12.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,General Tso's Chicken Shumai,appetizer,$14.00,ADAPTED,General Tso's is American-Chinese; the shumai format is an invented crossover
+China,Nine Dragons Restaurant,table service,no,$$,open,Glazed Prawns with Pistachios,entree,$33.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Dry-Braised Prawns,entree,$34.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Sweet and Sour Cod,entree,$32.00,NATIVE,sweet and sour is a Cantonese technique
+China,Nine Dragons Restaurant,table service,no,$$,open,Smoked Duck Fried Rice,entree,$35.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Canton Pepper Beef Stir Fry,entree,$28.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Sichuan Shui Zhu Beef,entree,$36.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Kowloon Spare Ribs,entree,$33.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Honey Sesame Chicken,entree,$26.00,ADAPTED,American-Chinese dish
+China,Nine Dragons Restaurant,table service,no,$$,open,Spicy Honey Crispy Chicken,entree,$26.00,ADAPTED,American-Chinese style
+China,Nine Dragons Restaurant,table service,no,$$,open,Kung Pao Duo,entree,$29.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Spicy Ma La Happy Family,entree,$32.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Vegetable Stir Fry,entree,$25.00,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Spicy Honey Cauliflower,entree,$25.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Crispy Honey Chicken,entree,$10.00,ADAPTED,"kids menu, lunch price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Sweet-and-Sour Shrimp,entree,$11.00,NATIVE,"kids menu, lunch price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Kid's Deluxe,entree,$13.00,GENERIC,"kids menu, lunch price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Crispy Honey Chicken,entree,$12.00,ADAPTED,"kids menu, dinner price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Sweet-and-Sour Shrimp,entree,$13.00,NATIVE,"kids menu, dinner price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Kid's Deluxe,entree,$15.00,GENERIC,"kids menu, dinner price"
+China,Nine Dragons Restaurant,table service,no,$$,open,Kids' Dessert,dessert,$6.95,GENERIC,kids menu
+China,Nine Dragons Restaurant,table service,no,$$,open,Chocolate Hazelnut Crepe Cake,dessert,$13.00,GENERIC,mille crepe cake; not a Chinese dish
+China,Nine Dragons Restaurant,table service,no,$$,open,Ube Cheesecake,dessert,$14.00,UNCLEAR,ube is Filipino and cheesecake is American; neither is Chinese
+China,Nine Dragons Restaurant,table service,no,$$,open,Mango Pudding,dessert,$12.00,NATIVE,Cantonese dessert
+China,Nine Dragons Restaurant,table service,no,$$,open,Assorted Coca-Cola Soft Drinks,beverage,$4.95,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Raspberry Iced Tea (Sweetened),beverage,$4.95,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Blackberry Jasmine Iced Tea (Unsweetened),beverage,$5.25,ADAPTED,jasmine tea base with added blackberry
+China,Nine Dragons Restaurant,table service,no,$$,open,Assorted Fruit Juices,beverage,$5.25,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Lowfat Milk,beverage,$4.25,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Chocolate Milk,beverage,$4.25,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Perrier Water,beverage,$6.25,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Evian Water,beverage,$9.95,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Hot Jasmine Tea,beverage,$5.95,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Dragon Well Green Tea,beverage,$5.95,NATIVE,Longjing tea
+China,Nine Dragons Restaurant,table service,no,$$,open,Hot Oolong Tea,beverage,$5.95,NATIVE,
+China,Nine Dragons Restaurant,table service,no,$$,open,Passion Fruit Black Tea,beverage,$5.95,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Hibiscus Tea,beverage,$5.95,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Hot Coffee,beverage,$4.75,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Hot Chocolate,beverage,$4.50,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Strawberry Slushy,beverage,$7.75,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Mango Slushy,beverage,$7.75,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,Shangri-La Slushy,beverage,$8.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Jade Beauty,beverage,$16.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Lychee Martini,beverage,$15.00,ADAPTED,lychee is Chinese; martini format is Western
+China,Nine Dragons Restaurant,table service,no,$$,open,Passion Old Fashioned,beverage,$18.00,GENERIC,Old Fashioned is an American cocktail
+China,Nine Dragons Restaurant,table service,no,$$,open,Baijiu Flo,beverage,$15.00,ADAPTED,baijiu is a Chinese spirit in an invented cocktail
+China,Nine Dragons Restaurant,table service,no,$$,open,South Sea Dream,beverage,$14.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Dragon Fruit Frozen,beverage,$16.00,ADAPTED,
+China,Nine Dragons Restaurant,table service,no,$$,open,Tsingtao Beer,beverage,$12.00,NATIVE,Chinese brewery
+China,Nine Dragons Restaurant,table service,no,$$,open,Dragon Blossom Craft Draft Beer,beverage,$11.00,UNCLEAR,Disney house craft beer with Chinese theming; brewed in the US
+China,Nine Dragons Restaurant,table service,no,$$,open,"Chardonnay, Simi, CALIFORNIA",beverage,$17.00 glass / $80.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Chenin Blanc Dry Creek, CALIFORNIA",beverage,$13.00 glass / $54.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Pinot Grigio Riff, ITALY",beverage,$12.00 glass / $49.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Riesling Pacific Rim, WASHINGTON ST.",beverage,$12.00 glass / $49.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Sauvignon Blanc Brancott, NEW ZEALAND",beverage,$14.00 glass / $56.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Centine Rose, Banfi, Italy",beverage,$12.00 glass / $46.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Cabernet Sauvignon Borne of Fire, WASHINGTON ST.",beverage,$16.00 glass / $75.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Merlot Decoy, CALIFORNIA",beverage,$14.00 glass / $56.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Pinot Noir Castle Rock, CALIFORNIA",beverage,$12.00 glass / $49.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Red Blend Conundrum, California",beverage,$14.00 glass / $56.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Malbec Terrazas, 'Altos del Plata', ARGENTINA",beverage,$13.00 glass / $54.00 bottle,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Prosecco Benvolio, ITALY (187ml)",beverage,$15.00,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Cuvee Mumm Napa, 'M', CALIFORNIA",beverage,$86.00,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Moscato Roscato, ITALY",beverage,$53.00,GENERIC,
+China,Nine Dragons Restaurant,table service,no,$$,open,"Plum Takara, CALIFORNIA",beverage,$12.00 glass / $49.00 bottle,ADAPTED,plum wine is an East Asian style but this bottling is Californian
+China,Lotus Blossom Cafe,quick service,no,$,open,Pork Egg Rolls,appetizer,$5.95,NATIVE,
+China,Lotus Blossom Cafe,quick service,no,$,open,Chicken Pot Stickers,appetizer,$7.35,NATIVE,
+China,Lotus Blossom Cafe,quick service,no,$,open,Orange Chicken Combo,entree,$14.95,ADAPTED,American-Chinese dish
+China,Lotus Blossom Cafe,quick service,no,$,open,Chicken Fried Rice Combo,entree,$14.95,NATIVE,
+China,Lotus Blossom Cafe,quick service,no,$,open,Mongolian Beef Noodle Combo,entree,$15.75,ADAPTED,"Mongolian beef is a Taiwanese-American invention, not a Chinese dish"
+China,Lotus Blossom Cafe,quick service,no,$,open,Stir-Fried Vegetable Noodle Combo,entree,$14.75,NATIVE,
+China,Lotus Blossom Cafe,quick service,no,$,open,Sweet-and-Sour Chicken,entree,$11.50,NATIVE,kids menu
+China,Lotus Blossom Cafe,quick service,no,$,open,Pot Stickers and Egg Roll,entree,$11.50,NATIVE,kids menu
+China,Lotus Blossom Cafe,quick service,no,$,open,Caramel-Ginger Ice Cream,dessert,$5.35,ADAPTED,ginger flavour on a Western ice cream base
+China,Lotus Blossom Cafe,quick service,no,$,open,Lychee Ice Cream,dessert,$5.35,ADAPTED,lychee flavour on a Western ice cream base
+China,Lotus Blossom Cafe,quick service,no,$,open,Assorted Fountain Beverage,beverage,$4.79,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,Black or Green Iced Tea,beverage,$5.25,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,Lychee Iced Tea,beverage,$6.25,ADAPTED,
+China,Lotus Blossom Cafe,quick service,no,$,open,DASANI Bottled Water,beverage,$4.00,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,Apple Juice,beverage,$3.25,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,Lowfat Milk,beverage,$3.25,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,Hot Oolong Tea,beverage,$4.25,NATIVE,
+China,Lotus Blossom Cafe,quick service,no,$,open,Hot Cocoa,beverage,$4.25,GENERIC,
+China,Lotus Blossom Cafe,quick service,no,$,open,TsingTao Bottled Beer,beverage,$11.00,NATIVE,Chinese brewery
+China,Lotus Blossom Cafe,quick service,no,$,open,Lucky Foo Pale Ale,beverage,$10.50,UNCLEAR,Disney house brand with Chinese theming; brewed in the US
+China,Lotus Blossom Cafe,quick service,no,$,open,Honey Jasmine Lager,beverage,$10.50,UNCLEAR,Disney house brand with Chinese theming; brewed in the US
+China,Lotus Blossom Cafe,quick service,no,$,open,Plum Wine,beverage,$9.75,ADAPTED,plum wine is an East Asian style; producer not published
+China,Joy of Tea,kiosk/cart,no,$,open,Pork Egg Rolls (2pc),appetizer,$5.95,NATIVE,
+China,Joy of Tea,kiosk/cart,no,$,open,Peach Bubble Milk Tea,beverage,$7.95,ADAPTED,bubble tea is Taiwanese in origin; peach flavour is an addition
+China,Joy of Tea,kiosk/cart,no,$,open,Honey Hibiscus Iced Tea,beverage,$7.95,GENERIC,
+China,Joy of Tea,kiosk/cart,no,$,open,Lychee Bubble Tea,beverage,$7.95,ADAPTED,bubble tea is Taiwanese in origin
+China,Joy of Tea,kiosk/cart,no,$,open,Jasmine or Oolong Iced Tea,beverage,$5.75,NATIVE,
+China,Joy of Tea,kiosk/cart,no,$,open,Jasmine or Oolong Tea,beverage,$4.25,NATIVE,
+China,Joy of Tea,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+China,Joy of Tea,kiosk/cart,no,$,open,"Dragon Blossom, Draft (16oz)",beverage,$10.75,UNCLEAR,Disney house craft beer with Chinese theming; brewed in the US
+China,Joy of Tea,kiosk/cart,no,$,open,Dragon Butterfly,beverage,$15.00,ADAPTED,
+China,Joy of Tea,kiosk/cart,no,$,open,Tipsy Ducks in Love,beverage,$14.75,ADAPTED,
+China,Joy of Tea,kiosk/cart,no,$,open,Kung Fu Punch,beverage,$14.25,ADAPTED,
+China,Joy of Tea,kiosk/cart,no,$,open,Lychee Cha Cha,beverage,$13.50,ADAPTED,
+China,Joy of Tea,kiosk/cart,no,$,open,Honey Hibiscus Hard Iced Tea,beverage,$14.25,GENERIC,
+China,Joy of Tea,kiosk/cart,no,$,open,Add Boba to any Cocktail,beverage,$1.50,ADAPTED,boba is Taiwanese in origin
+Germany,Biergarten Restaurant,table service,no,$$$,open,Seasonal Salads,appetizer,Included,GENERIC,fixed-price buffet $49 adult / $28 child
+Germany,Biergarten Restaurant,table service,no,$$$,open,Roasted Chicken,entree,Included,UNCLEAR,listed only as roasted chicken; no German preparation published
+Germany,Biergarten Restaurant,table service,no,$$$,open,Traditional Sausages,entree,Included,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Sauerkraut,side,Included,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Potatoes,side,Included,UNCLEAR,listed only as potatoes; preparation not published
+Germany,Biergarten Restaurant,table service,no,$$$,open,Spaetzle,side,Included,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Schnitzel,entree,Included,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Assorted Desserts including Apple Strudel,dessert,Included,NATIVE,apple strudel is Austro-German
+Germany,Biergarten Restaurant,table service,no,$$$,open,German Spezi,beverage,Included,NATIVE,German cola-orange soft drink
+Germany,Biergarten Restaurant,table service,no,$$$,open,Assorted Coca-Cola Fountain Beverages,beverage,Included,GENERIC,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Freshly Brewed Iced Tea,beverage,Included,GENERIC,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Freshly Brewed Joffrey's Coffee,beverage,Included,GENERIC,
+Germany,Biergarten Restaurant,table service,no,$$$,open,German Beer Flight (Four Pours - 5 oz each),beverage,$18.00,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,Bitburger Premium Pilsner (1/2 Liter or Liter),beverage,$12.00-$18.00,NATIVE,German brewery
+Germany,Biergarten Restaurant,table service,no,$$$,open,Warsteiner Dunkel (1/2 Liter or Liter),beverage,$13.00-$19.00,NATIVE,German brewery
+Germany,Biergarten Restaurant,table service,no,$$$,open,Konig Ludwig Weissbier (1/2 Liter or Liter),beverage,$12.75-$19.00,NATIVE,German brewery
+Germany,Biergarten Restaurant,table service,no,$$$,open,Schofferhofer Grapefruit Hefeweizen (1/2 Liter or Liter),beverage,$12.00-$18.00,NATIVE,German brewery
+Germany,Biergarten Restaurant,table service,no,$$$,open,German White Wine Flight (Three Pours 2-oz each),beverage,$20.00,NATIVE,
+Germany,Biergarten Restaurant,table service,no,$$$,open,"Villa Wolf Pinot Gris, Pfalz",beverage,$13.00 glass / $56.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,"J.H. Selbach Blue Label Riesling, Mosel",beverage,$19.00 glass / $79.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,"Dr. Loosen, 'Dr. L' Riesling, Mosel",beverage,$14.00 glass / $56.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,"Valckenberg 'Madonna' Riesling Spatlese, Rheinhessen",beverage,$12.00 glass / $52.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,"August Kesseler 'Spatburgunder' Pinot Noir, Rheingau",beverage,$16.00 glass / $62.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,"Heinz Eifel 'Shine' Dornfelder, Rheinhessen",beverage,$13.00 glass / $56.00 bottle,NATIVE,German wine
+Germany,Biergarten Restaurant,table service,no,$$$,open,Jagermeister,beverage,$15.50,NATIVE,German herbal liqueur
+Germany,Biergarten Restaurant,table service,no,$$$,open,Barenjager Honey & Bourbon,beverage,$15.50,ADAPTED,German honey liqueur blended with American bourbon
+Germany,Sommerfest,quick service,no,$,open,Bratwurst,entree,$12.69,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,Jumbo Pretzel,entree,$12.49,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,House-made Obatzda Cheese Dip,side,$1.50,NATIVE,Bavarian cheese spread
+Germany,Sommerfest,quick service,no,$,open,Pretzel Bread Pudding,dessert,$4.79,ADAPTED,invented dessert: German pretzel in an Anglo-American bread pudding
+Germany,Sommerfest,quick service,no,$,open,Beck's Pilsner - Germany,beverage,$11.75,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,Schofferhofer Pink Grapefruit Hefeweizen - Germany,beverage,$12.50,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,Warsteiner Dunkel - Germany,beverage,$13.25,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,Bitburger Premium Pilsner - Germany,beverage,$12.50,NATIVE,
+Germany,Sommerfest,quick service,no,$,open,Beck's Pilsner - Germany Vintage Souvenir Stein,beverage,$20.25,NATIVE,same beer in a souvenir stein
+Germany,Sommerfest,quick service,no,$,open,Schofferhofer Pink Grapefruit Hefeweizen - Germany Vintage Souvenir Stein,beverage,$21.00,NATIVE,same beer in a souvenir stein
+Germany,Sommerfest,quick service,no,$,open,Warsteiner Dunkel - Germany Vintage Souvenir Stein,beverage,$21.75,NATIVE,same beer in a souvenir stein
+Germany,Sommerfest,quick service,no,$,open,Bitburger Premium Pilsner - Germany Vintage Souvenir Stein,beverage,$21.00,NATIVE,same beer in a souvenir stein
+Germany,Sommerfest,quick service,no,$,open,"August Kesseler Pinot Noir Spatburgunder, Rheingau",beverage,$16.00,NATIVE,German wine
+Germany,Sommerfest,quick service,no,$,open,"Selbach-Oster 'Blue Label' Riesling, Mosel",beverage,$19.00,NATIVE,German wine
+Germany,Sommerfest,quick service,no,$,open,Assorted Fountain Beverages,beverage,$5.59,GENERIC,
+Germany,Sommerfest,quick service,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+Germany,Sommerfest,quick service,no,$,open,Coca-Cola Bottle,beverage,$5.50,GENERIC,
+Germany,Sommerfest,quick service,no,$,open,Diet Coke Bottle,beverage,$5.50,GENERIC,
+Germany,Sommerfest,quick service,no,$,open,Sprite Bottle,beverage,$5.50,GENERIC,
+Germany,Sommerfest,quick service,no,$,open,Zwiebelkuchen,entree,$9.79,NATIVE,Food & Wine Festival limited-time offering at a permanent venue
+Germany,Sommerfest,quick service,no,$,open,Cinnamon Pretzel Cold Brew,beverage,$6.49,ADAPTED,Food & Wine Festival limited-time offering at a permanent venue
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Mickey Lederhosen Caramel Apple,dessert,$14.49,ADAPTED,German dress theming on an American caramel apple
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Mickey Pumpkin Caramel Apple,dessert,$14.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Minnie Dirndl Caramel Apple,dessert,$14.49,ADAPTED,German dress theming on an American caramel apple
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Minnie Witch Caramel Apple,dessert,$14.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Apple with Chopped Peanuts,dessert,$8.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Apple,dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Gourmet Pretzel,dessert,$5.79,ADAPTED,German pretzel form with caramel
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Bananas Foster Caramel,dessert,$5.79,GENERIC,bananas Foster is from New Orleans
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Apple Crisp Pie,dessert,$8.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Liquor Flight,beverage,$7.99,UNCLEAR,"spirits not named, so provenance cannot be determined"
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Butter Bar,dessert,$5.79,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Pecan Bar,dessert,$5.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Pecan Cluster,dessert,$5.79,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Pumpkin Spice Butter Bar,dessert,$5.79,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel S'More,dessert,$5.79,GENERIC,s'mores are American
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Square,dessert,$5.29,ADAPTED,Werther's Original is a German confectionery brand
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Square with Dark Chocolate and Sea Salt,dessert,$5.29,ADAPTED,German confectionery brand
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Square with Milk Chocolate and Sea Salt,dessert,$5.29,ADAPTED,German confectionery brand
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Mickey Werther's Original Caramel Chocolate Cookie Sandwich,dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Coconut Cookie Sandwich,dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Gingerbread Cookie Sandwich,dessert,$7.99,ADAPTED,gingerbread has a German tradition (Lebkuchen)
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Snickerdoodle Cookie Sandwich,dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Apple Oatmeal Cookie,dessert,$6.29,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Chocolate Chip and Pretzel Cookie,dessert,$6.29,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Chocolate Cookie,dessert,$6.29,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Mickey Cereal Treat with Werther's Original Caramel,dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Chocolate Cupcake,dessert,$6.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Werther's Original Caramel Pumpkin Swiss Roll,dessert,$6.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Mickey Marshmallow Pop with Werther's Original Caramel,dessert,$6.49,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,"Werther's Original Caramel Popcorn, Fresh Made",dessert,$7.99,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,smartwater,beverage,$6.25,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Monster Energy,beverage,$5.79,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,POWERADE Fruit Punch,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,POWERADE Mountain Berry Blue,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Coca-Cola Bottle,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Coca-Cola Zero Sugar Bottle,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Diet Coke Bottle,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Fanta Orange,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Gold Peak Sweet Tea,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,Sprite Bottle,beverage,$5.50,GENERIC,
+Germany,Karamell-Kuche,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+Germany,Weinkeller,lounge/bar,no,not published,open - limited access,,,,,MENU NOT OBTAINABLE - wine list is not published on any accessible aggregator; the only touringplans page for this venue was last updated May 2023 and carries no itemised list. Venue is open but its exterior entrance is closed by the pavilion construction and access is via Stein Haus only.
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Polipo Grigliato,appetizer,$24.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Calamari Fritti,appetizer,$23.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Caesar Salad,appetizer,$18.00,GENERIC,"Caesar salad is not an Italian dish; it was invented in Tijuana, Mexico"
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Fior di Latte Caprese,appetizer,$18.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Insalata Mista,appetizer,$15.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Carpaccio di Manzo,appetizer,$24.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Tortino di Melanzane,appetizer,$19.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Prosciutto di Parma,appetizer,$20.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Pasta E Fagioli,appetizer,$10.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Tagliere,appetizer,$45.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Salmone,entree,$37.00,ADAPTED,salmon is not part of the traditional Italian repertoire; prepared in Italian style
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Bistecca,entree,$47.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Pesce Spada,entree,$36.00,NATIVE,swordfish is Sicilian
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Parmigiana,entree,$34.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Mare e Monti,entree,$52.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Fettuccine,entree,$26.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Lasagne alla Bolognese,entree,$29.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Spaghetti,entree,$29.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Gnocchi Sorrentina,entree,$29.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Tutto Risotto,entree,$40.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Spaghetti (contorno),side,$8.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Crispy Potatoes,side,$8.00,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Green Beans,side,$8.00,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Mushrooms,side,$8.00,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Meatballs in Pomodoro Sauce,side,$9.00,ADAPTED,the meatball-in-sauce side is Italian-American
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Grilled Chicken Breast,side,$9.00,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Oishii Shrimp (4),side,$15.00,UNCLEAR,oishii is a Japanese word on an Italian menu; preparation not published
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Mozzarella Sticks,entree,$11.00,GENERIC,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Spaghetti,entree,$11.00,NATIVE,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Chicken Tenders,entree,$11.00,GENERIC,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Cheese or Pepperoni Pizza,entree,$11.00,ADAPTED,pepperoni pizza is Italian-American
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Green Beans,side,$8.00,GENERIC,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Pink Italian Lemonade,beverage,$11.00,ADAPTED,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Lemonade,beverage,$7.00,GENERIC,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Shirley Temple,beverage,$5.00,GENERIC,kids menu
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Pina Colada,beverage,$8.00,GENERIC,"kids menu, non-alcoholic"
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Strawberry Daiquiri,beverage,$8.00,GENERIC,"kids menu, non-alcoholic"
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Limoncello Flight,beverage,$24.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Tiramisu,dessert,$14.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Cannolo Siciliano,dessert,$12.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Torta di Ricotta,dessert,$13.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Torta di Genovese,dessert,$14.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Limoncello Float (21+),dessert,$19.00,ADAPTED,Italian limoncello in an American float format
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Gelati e Sorbetti,dessert,$12.00,NATIVE,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Cipriani Carciofo,beverage,$16.00,NATIVE,Italian artichoke beer
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Peroni,beverage,$14.00 glass / $39.00 pitcher,NATIVE,Italian brewery
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Michelob Ultra,beverage,$13.00 glass / $35.00 pitcher,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Bud Light,beverage,$11.00 glass / $28.00 pitcher,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Blue Moon,beverage,$16.00 glass / $43.00 pitcher,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Italicus Spritz,beverage,$20.00,NATIVE,Italicus is an Italian bergamot liqueur; the spritz is Italian
+Italy,Tutto Italia Ristorante,table service,no,$$,open,White Wine Spritzer,beverage,$12.00,GENERIC,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Bellini,beverage,$16.00,NATIVE,"invented at Harry's Bar, Venice"
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Frizzante,beverage,$18.00,ADAPTED,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Italian Margarita,beverage,$18.00,ADAPTED,margarita base with Italian liqueur
+Italy,Tutto Italia Ristorante,table service,no,$$,open,Italian Martini,beverage,$18.00,ADAPTED,
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Prosecco, Terre Di Bacco, Glera NV",beverage,$13.00 glass / $52.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Rosa Regale, Spumante Dolci Banfi, Brachetto NV",beverage,$14.00 glass / $64.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Moscato, Batasiolo, Moscato NV",beverage,$13.00 glass / $52.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Brachetto, Batasiolo, Spumante, Brachetto NV",beverage,$18.00 glass / $74.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Pinot Grigio, Terre di Bacco",beverage,$12.00 glass / $45.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Gavi, Batasiolo, Cortese",beverage,$15.00 glass / $62.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Pecorino, Il Feuduccio",beverage,$17.00 glass / $72.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Sauvignon Blanc, Terre di Bacco",beverage,$14.00 glass / $59.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Verdicchio Dei Castelli Di Jesi, Marchetti",beverage,$15.00 glass / $63.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Soave Classico Superiore, Pieropan",beverage,$14.00 glass / $61.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Chardonnay, Batasiolo",beverage,$15.00 glass / $63.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Centine Rose, Banfi",beverage,$13.00 glass / $52.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Chianti, Terre Di Bacco",beverage,$12.00 glass / $45.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Chianti Classico, Vescine Capotondo",beverage,$16.00 glass / $65.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Chianti Classico Riserva, Vescine",beverage,$25.00 glass / $104.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Dolcetto D'Alba, Batasiolo",beverage,$15.00 glass / $65.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Pinot Nero, Lavis",beverage,$14.00 glass / $59.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Valpolicella, Allegrini",beverage,$15.00 glass / $69.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Cabernet, Terre Di Bacco",beverage,$13.00 glass / $52.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Langhe Nebbiolo, Massolino",beverage,$22.00 glass / $95.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Belnero, Banfi, Sangiovese",beverage,$24.00 glass / $104.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Montepulciano D'Abruzzo, La Quercia",beverage,$13.00 glass / $52.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Lucente, Luce",beverage,$23.00 glass / $99.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Aglianico Riserva, La Fortezza",beverage,$35.00 glass / $143.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Ali Toscana, Donna Laura",beverage,$15.00 glass / $65.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Amarone Sartori, Corte Bra Corvina",beverage,$39.00 glass / $175.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Nero D'Avola, Stemmari",beverage,$15.00 glass / $59.00 bottle,NATIVE,Italian wine
+Italy,Tutto Italia Ristorante,table service,no,$$,open,"Langhe Nebbiolo, Terre Di Bacco",beverage,$14.00 glass / $53.00 bottle,NATIVE,Italian wine
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Tris di Bruschetta,appetizer,$15.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Calamari Fritti,appetizer,$23.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Mozzarella Caprese,appetizer,$14.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Arancini,appetizer,$16.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Homemade Focaccia,appetizer,$8.50,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Tagliere (serves 2),appetizer,$39.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Cesare,appetizer,$21.00,GENERIC,Caesar salad is not an Italian dish
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,House Salad,appetizer,$10.00,GENERIC,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Tortellini,entree,$30.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Spaghetti e Polpettine,entree,$29.00,ADAPTED,spaghetti and meatballs is Italian-American
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Penne Alla Bolognese,entree,$28.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Manicotti,entree,$28.00,ADAPTED,manicotti as served is an Italian-American dish
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Fettucine via Napoli,entree,$29.00,ADAPTED,house creation
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Branzino,entree,$39.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Chicken Parmesan,entree,$34.00,ADAPTED,chicken parmesan is Italian-American
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Filetto di Manzo,entree,$49.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Green Beans,side,$9.00,GENERIC,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Fingerling Potatoes,side,$9.00,GENERIC,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Carciofi Pizza,entree,$25.00 individual / $42.00 large / $58.00 half meter,NATIVE,three sizes collapsed into one item
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Prosciutto e Melone Pizza,entree,$26.00 individual / $42.00 large / $58.00 half meter,NATIVE,three sizes collapsed into one item
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Capricciosa Pizza,entree,$26.00 individual / $42.00 large / $58.00 half meter,NATIVE,three sizes collapsed into one item
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Quattro Formaggi Pizza,entree,$25.00 individual / $42.00 large / $57.00 half meter,NATIVE,three sizes collapsed into one item
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Margherita Pizza,entree,$22.00 individual / $36.00 large / $48.00 half meter,NATIVE,three sizes collapsed into one item
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Meat Lover Pizza,entree,$26.00 individual / $45.00 large / $60.00 half meter,ADAPTED,American-style loaded meat pizza
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Build Your Own Pizza,entree,$22.00 / $36.00 / $48.00,ADAPTED,build-your-own format is an American convention
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Classic Toppings,entree,$4.50 / $6.00 / $7.00 each,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Specialty Toppings,entree,$5.00 / $7.00 / $8.50 each,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Prosciutto (topping),entree,$7.00 / $9.00 / $11.00 each,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Tiramisu,dessert,$14.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Cannolo Siciliano,dessert,$12.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Cannolo di Cioccolato e Nocciola,dessert,$12.00,ADAPTED,flavoured variant of the traditional cannolo
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Cheesecake alle Fragole,dessert,$12.00,ADAPTED,American cheesecake under an Italian name
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Torta al Cioccolato,dessert,$13.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Gelati e Sorbetti,dessert,$12.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Limoncello Float,dessert,$19.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Bocconcini,appetizer,$8.00,NATIVE,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Pizza Margarita,entree,$11.50,NATIVE,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Spaghetti,entree,$11.50,NATIVE,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Chicken Tender,entree,$12.00,GENERIC,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Bombolone,dessert,$8.00,NATIVE,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Gelati e Sorbetti,dessert,$6.00,NATIVE,kids menu
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Italian Soda,beverage,$7.00,ADAPTED,the flavoured Italian soda is an American cafe invention
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Italian Water,beverage,$9.00,NATIVE,imported Italian mineral water
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Strawberry Acqua Fresca,beverage,$8.50,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Dolce Vita,beverage,$11.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Frozen Vulcano,beverage,$9.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Virgin Pina Colada,beverage,$8.00,GENERIC,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Sicily 75,beverage,$14.00,ADAPTED,zero proof
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Amalfi Refresher,beverage,$14.00,ADAPTED,zero proof
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Espresso,beverage,$5.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Double Espresso,beverage,$7.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Cappuccino,beverage,$6.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Limoncello Mule,beverage,$20.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Americano,beverage,$18.00,NATIVE,the Americano is an Italian aperitivo classic
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Sicilian Sunset,beverage,$18.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Via Vesuvio,beverage,$18.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Negroni,beverage,$19.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Amaretto Sour,beverage,$18.00,ADAPTED,Italian amaretto in an American sour format
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Torcello Old Fashioned,beverage,$17.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Via Napoli's Earth Cocktail,beverage,$18.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Italian Siesta,beverage,$18.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Bellini,beverage,$17.00,NATIVE,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Lemon Drop,beverage,$17.00,GENERIC,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Strawberry Limoncello,beverage,$16.00,ADAPTED,
+Italy,Via Napoli Ristorante e Pizzeria,table service,no,$$,open,Aperol Spritz,beverage,$16.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Calamari Fritti,appetizer,$23.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Carciofi,appetizer,$11.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Olive di Cerignola,appetizer,$11.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Penne Arrabbiata,entree,$16.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Polpette Parmigiana,appetizer,$11.00,ADAPTED,meatballs in the Italian-American idiom
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Tortino di Melanzane,appetizer,$19.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Coppa,appetizer,$15.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"L'Alpine: Asiago, Gorgonzola, Tartufo Cheese",appetizer,$22.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Prosciutto di Parma, Parma Ham",appetizer,$18.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Salame,appetizer,$15.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Soppressata,appetizer,$15.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Blue Moon Draft,beverage,$16.00,GENERIC,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Michelob Ultra Draft,beverage,$13.00,GENERIC,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Peroni Draft,beverage,$14.00,NATIVE,Italian brewery
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Affogato Ale,beverage,$16.00,UNCLEAR,brewery not published; name is Italian but origin cannot be confirmed
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Sorsi d'Oro,beverage,$14.00,UNCLEAR,brewery not published
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Aperol Spritz,beverage,$16.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Bellini,beverage,$16.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Espresso Martini,beverage,$18.00,ADAPTED,espresso is Italian; the martini format is not
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Italian Margarita,beverage,$18.00,ADAPTED,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Italian Martini,beverage,$18.00,ADAPTED,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Italian Mule,beverage,$17.00,ADAPTED,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Italian Sangria,beverage,$16.00,ADAPTED,sangria is Spanish
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Italicus Spritz,beverage,$20.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Martini Your Way,beverage,$20.00,GENERIC,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Negroni,beverage,$18.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,White Wine Spritzer,beverage,$12.00,GENERIC,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Fabrizia Crema Di,beverage,$14.00,ADAPTED,Fabrizia is a US producer of Italian-style limoncello
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Fabrizia Crema di Pistacchio,beverage,$14.00,ADAPTED,"US producer, Italian style"
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Fabrizia Sicilian,beverage,$14.00,ADAPTED,"US producer, Italian style"
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Limoncello Flight,beverage,$24.00,ADAPTED,flight of US-produced limoncello
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Crisp Italian Whites (wine flight),beverage,$22.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,From the Hills of Piemonte (wine flight),beverage,$26.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,Under a Tuscan Sun (wine flight),beverage,$26.00,NATIVE,
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Chardonnay, Batasiolo, 2017",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Gavi, Batasiolo 2020",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Pecorino, Il Feuduccio, 2019",beverage,$17.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Pinot Grigio, Terre di Bacco",beverage,$12.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Sauvignon Blanc, Terre di Bacco, 2019",beverage,$14.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Soave Classico Superiore, Pieropan, 2019",beverage,$14.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Verdicchio Dei Castelli Di Jesi, Marchetti, 2019",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Amarone Sartori, Corte Bra, 2013",beverage,$39.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Cabernet, Terre Di Bacco, 2019",beverage,$13.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Chianti Classico Riserva, Vescine, 2015",beverage,$25.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Chianti Classico, Vescine Capotondo, 2016",beverage,$16.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Chianti, Terre Di Bacco, 2020",beverage,$12.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Dolcetto D'Alba, Batasiolo, 2018",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Langhe Nebbiolo, Terre Di Bacco, 2018",beverage,$14.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Nero D'Avola, Stemmari, 2019",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Pinot Nero, La Vis, 2019",beverage,$14.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Valpolicella, Allegrini, 2019",beverage,$15.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Guidalberto, Tenuta San Guido",beverage,$62.00,NATIVE,Italian wine
+Italy,Tutto Gusto Wine Cellar,lounge/bar,no,$,open,"Le Difese, Tenuta San Guido",beverage,$41.00,NATIVE,Italian wine
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Gelati or Sorbetti in a Small Cup,dessert,$8.75,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Gelati or Sorbetti in a Medium Cup,dessert,$11.75,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Gelati or Sorbetti in a Waffle Cone,dessert,$9.75,ADAPTED,waffle cone is an American format
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Gelati or Sorbetti in a Waffle Bowl,dessert,$13.75,ADAPTED,waffle bowl is an American format
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Affogato Al Cioccolato,dessert,$12.75,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Affogato Espresso Gelato,dessert,$12.75,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Coppa Del Nonno,dessert,$12.75,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Zeppole Sundae,dessert,$12.75,ADAPTED,Italian zeppole reworked as an American sundae
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Milkshakes,dessert,$12.00,GENERIC,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Monella,dessert,$9.75,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Naufrago,dessert,$9.75,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Cannoli Al Cioccolato,dessert,$9.00,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Cookie Sandwich,dessert,$12.00,GENERIC,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Mocha Tiramisu,dessert,$9.00,ADAPTED,flavoured variant of tiramisu
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Homemade Hot Chocolate,beverage,$10.00,NATIVE,cioccolata calda
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Caffe Americano,beverage,$5.50,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Caffe Latte,beverage,$6.50,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Cappuccino,beverage,$6.50,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Espresso - Single,beverage,$3.25,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Espresso - Double,beverage,$5.00,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Aranciata,beverage,$6.00,NATIVE,Italian orange soda
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Limonata,beverage,$6.00,NATIVE,Italian lemon soda
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,San Benedetto,beverage,$4.25,NATIVE,Italian mineral water
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Assorted Fountain Beverages,beverage,$5.00,GENERIC,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Lemon Tea,beverage,$6.00,GENERIC,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Peach Tea,beverage,$6.00,GENERIC,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Chianti,beverage,$11.50,NATIVE,Italian wine
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Pinot Grigio,beverage,$11.50,NATIVE,Italian wine
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Prosecco,beverage,$11.50,NATIVE,Italian wine
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Peroni Draft,beverage,$11.00,NATIVE,Italian brewery
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Bellini,beverage,$14.00,NATIVE,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Rossini,beverage,$14.00,NATIVE,Venetian sparkling cocktail
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Blue Lagoon Lemon-Sprits,beverage,$14.00,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Frozen Red Sangria,beverage,$12.00,GENERIC,sangria is Spanish
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Italian Margarita,beverage,$12.00,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Amalfi (21+) Limoncello Float,dessert,$19.00,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Bronte (21+) Limoncello Float,dessert,$19.00,ADAPTED,
+Italy,Gelateria Toscana,kiosk/cart,no,$,open,Martini Mania (21+),beverage,$17.00,ADAPTED,
+Italy,Pizza al Taglio,kiosk/cart,no,varies,open - limited hours,,,,,MENU NOT OBTAINABLE - no accessible aggregator publishes an itemised menu for this window. Disney's EPCOT dining page lists it with price 'Varies'. It operates limited hours and its permanence is not confirmed.
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,BBQ Burger,entree,$15.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,BBQ Platter,entree,$18.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,House Salad with Pulled BBQ Pork,entree,$12.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,House Salad with Smoked Chicken,entree,$12.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,House Wedge Salad with Pulled BBQ Pork,entree,$12.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,House Wedge Salad with Smoked Chicken,entree,$12.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Kansas City Smoked Half Chicken,entree,$15.49,NATIVE,named regional American barbecue style
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,North Carolina Chopped Smoked Pork Butt Platter,entree,$13.99,NATIVE,named regional American barbecue style
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Sliced Texas Beef Brisket Sandwich,entree,$14.99,NATIVE,named regional American barbecue style
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Spiced Honey-Habanero Wings,entree,$13.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,BBQ Jackfruit Sandwich,entree,$14.99,ADAPTED,plant-based reworking of pulled pork
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Plant-based Chili Baked Potato,entree,$13.49,ADAPTED,plant-based reworking of chili
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Baked Beans with Burnt Ends,side,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Beer-battered Onion Rings,side,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Brewmaster's Fries,side,$6.99,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Cornbread,side,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Macaroni & Cheese,side,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Seasoned French Fries,side,$5.49,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Coleslaw,side,$4.99,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Banana Pudding,dessert,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,S'mores Bar,dessert,$5.49,NATIVE,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Sam Eagle Star-Spangled Shortcake,dessert,$6.29,ADAPTED,themed dessert on an American shortcake base
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Allergy-Friendly Cookies,dessert,$4.29,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Fresh Watermelon Slices,dessert,$4.99,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Seasonal Fruit,dessert,$4.99,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Cheeseburger,entree,$8.99,GENERIC,kids menu
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Salad with Chicken,entree,$8.29,GENERIC,kids menu
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Chicken Strips,entree,$8.99,GENERIC,kids menu
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Macaroni & Cheese,entree,$7.49,GENERIC,kids menu
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,PB&J Uncrustable,entree,$7.29,GENERIC,kids menu
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,"Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",beverage,$11.00,NATIVE,American producer
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,"Bell's Seasonal Wheat Ale - Comstock, MI",beverage,$12.50,NATIVE,American brewery
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,"Cigar City Jai Alai IPA - Tampa, FL",beverage,$12.50,NATIVE,American brewery
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,"Samuel Adams Boston Lager - Boston, MA",beverage,$12.50,NATIVE,American brewery
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Tennessee Lemonade,beverage,$17.50,NATIVE,American whiskey base
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Apple Pie Gelato Shake with Moonshine,beverage,$17.50,ADAPTED,American moonshine and apple pie flavour in an Italian gelato format
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Apple Pie Gelato Shake,beverage,$6.49,ADAPTED,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Assorted Coca-Cola Fountain Beverages,beverage,$4.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Berry Punch,beverage,$5.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Chocolate Milk,beverage,$2.59,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Freshly Brewed Joffrey's Coffee Regular,beverage,$4.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Freshly Brewed Joffrey's Coffee Decaf,beverage,$4.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Large Freshly Brewed Joffrey's Coffee Regular,beverage,$5.19,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Large Freshly Brewed Joffrey's Coffee Decaf,beverage,$5.19,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Frozen Blueberry-Lavender Lemonade,beverage,$6.49,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Hot Cocoa by Joffrey's Coffee,beverage,$4.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Large Hot Cocoa,beverage,$5.19,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Twinings Hot Tea,beverage,$4.79,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Large Twinings Hot Tea,beverage,$5.19,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Lowfat Milk,beverage,$2.59,GENERIC,
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Blackberry Buckle,dessert,$4.79,NATIVE,Food & Wine Festival limited-time offering; buckle is a New England cake
+The American Adventure,Regal Eagle Smokehouse: Craft Drafts & Barbecue,quick service,no,$,open,Pumpkin Pie Milk Shake,beverage,$6.79,GENERIC,Food & Wine Festival limited-time offering
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Hot Dog,entree,$11.29,NATIVE,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Jumbo Turkey Leg,entree,$14.99,GENERIC,theme park icon rather than a regional American dish
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Mickey-shaped Pretzel,entree,$8.49,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Popcorn,entree,$5.99,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Popcorn - Souvenir Bucket,entree,$14.29,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Popcorn Bucket Refill,entree,$2.49,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Soft-serve in a Waffle Cone,dessert,$6.29,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Barq's Root Beer Float,beverage,$6.79,NATIVE,root beer float is American
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Assorted Fountain Beverages,beverage,$4.79,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Frozen Slushy,beverage,$6.29,GENERIC,
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,The American Dream,beverage,$6.99,ADAPTED,themed speciality drink
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Blue Moon Belgian White Ale,beverage,$10.50,NATIVE,"American brewery, Belgian style"
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Bud Light Lager Draft,beverage,$10.00,NATIVE,American brewery
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Samuel Adams Seasonal,beverage,$13.00,NATIVE,American brewery
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Yuengling Traditional Lager,beverage,$10.50,NATIVE,American brewery
+The American Adventure,Fife & Drum Tavern,kiosk/cart,no,$,open,Frozen Black Cherry Bourbon Lemonade,beverage,$16.50,NATIVE,American bourbon base
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,Pretzel Nuggets with House-made Beer-Cheese Sauce,entree,$8.79,ADAPTED,"German pretzel form with American beer cheese, in the USA pavilion"
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,Cinnamon-glazed Nuts,entree,$5.99,GENERIC,
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"3 Daughters Brewing Beach Blonde Ale - St. Petersburg, FL",beverage,$13.00,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,Beer Flight,beverage,$13.25,NATIVE,flight of American craft beers
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Ciderboys Strawberry Magic Hard Cider - Steven's Point, WI",beverage,$14.00,NATIVE,American producer
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Dogfish Head 60 Minute IPA - Milton, DE",beverage,$13.00,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Golden Road Brewing Mango Cart Wheat Ale - Los Angeles, CA",beverage,$13.00,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Kentucky Bourbon Barrel Ale - Lexington, KY",beverage,$13.00,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Orange Blossom Brewing Orange Blossom Pilsner - Orlando, FL",beverage,$13.00,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",beverage,$13.50,NATIVE,American producer
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,"Sierra Nevada Hazy Little Thing IPA - Chico, CA",beverage,$12.50,NATIVE,American brewery
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+The American Adventure,Block & Hans,kiosk/cart,no,$,open,Spicy Strawberry-Mango Smoothie,beverage,$6.29,GENERIC,Food & Wine Festival limited-time offering
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Funnel Cake with Sugar,dessert,$10.00,NATIVE,funnel cake is American fair food
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Funnel Cake with Chocolate Sauce,dessert,$11.50,NATIVE,
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Funnel Cake with Whipped Cream,dessert,$12.00,NATIVE,
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Funnel Cake with Vanilla Ice Cream,dessert,$13.50,NATIVE,
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Cookies 'n Cream Funnel Cake,dessert,$15.00,ADAPTED,branded-confection variant
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Funnel Cake Gift Kit,dessert,$21.00,GENERIC,retail take-home kit
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$3.50,GENERIC,
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Wild Berry Funnel Cake,dessert,$12.50,ADAPTED,Festival of the Arts limited-time offering
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Pumpkin Pie Funnel Cake,dessert,$12.50,ADAPTED,Food & Wine Festival limited-time offering
+The American Adventure,Funnel Cake,kiosk/cart,no,$,open,Bananas Foster Funnel Cake,dessert,$12.50,ADAPTED,Flower & Garden Festival limited-time offering
+Japan,Takumi-Tei,table service,yes,$$$$,open,Ichiju Sansai - A Modern Beginning,appetizer,Included,NATIVE,prix fixe $150 adult / $100 child; kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Hassun - A Taste of the Season,appetizer,Included,NATIVE,kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Sashimi - Pure Ingredients, Skilled Hands",appetizer,Included,NATIVE,kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Chilled or Warm Dish - A Moment to Pause,entree,Included,NATIVE,kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Main Course - Where East Meets West,entree,Included,ADAPTED,Disney's own wording describes this course as an East-West crossover
+Japan,Takumi-Tei,table service,yes,$$$$,open,Rice Dish - A Gentle Ending,entree,Included,NATIVE,kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Matcha & Sweet - A Peaceful Finish,dessert,Included,NATIVE,kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Vegetarian Options,entree,Included,UNCLEAR,"listed without description, so provenance cannot be determined"
+Japan,Takumi-Tei,table service,yes,$$$$,open,Plant-based Chilled or Warm Dish (Hasu menu),entree,Included,ADAPTED,plant-based reworking of a kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Plant-based Rice Dish (Hasu menu),entree,Included,ADAPTED,plant-based reworking of a kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Plant-based Matcha & Sweet (Hasu menu),dessert,Included,ADAPTED,plant-based reworking of a kaiseki course
+Japan,Takumi-Tei,table service,yes,$$$$,open,Vegetarian Rice Dish (Hasu menu),entree,Included,ADAPTED,
+Japan,Takumi-Tei,table service,yes,$$$$,open,Vegetarian Matcha & Sweet (Hasu menu),dessert,Included,ADAPTED,
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Children's Matcha & Sweet (Himawari menu, ages 8-12)",dessert,Included,NATIVE,
+Japan,Takumi-Tei,table service,yes,$$$$,open,IWA,beverage,$101.00 glass / $492.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Dassai 23 - Yamaguchi, Japan",beverage,$53.00 glass / $260.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Dassai 39 - Yamaguchi, Japan",beverage,$28.00 glass / $138.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Dassai 45 - Yamaguchi, Japan",beverage,$15.00 glass / $75.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,Junmai Daiginjo - Kubota Manju - Niigata,beverage,$48.00 glass / $236.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Kubota - Niigata, Japan",beverage,$23.00 glass / $110.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Hakkaisan 45 - Niigata, Japan",beverage,$23.00 glass / $110.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"KEN - Fukushima, Japan",beverage,$50.00 glass / $244.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Tomoju - Ibaragi, Japan",beverage,$27.00 glass / $93.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Fukuju - Hyogo, Japan",beverage,$25.00 glass / $119.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Kuroushi - Wakayama, Japan",beverage,$44.00 glass / $213.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Moon on the Water - Hiroshima, Japan",beverage,$22.00 glass / $105.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Kubota Senju - Niigata, Japan",beverage,$17.00 glass / $81.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Suijin - Iwate, Japan",beverage,$18.00 glass / $89.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Shichida - Saga, Japan",beverage,$23.00 glass / $110.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"DAN - Yamanashi, Japan",beverage,$22.00 glass / $105.00 bottle,NATIVE,Japanese sake
+Japan,Takumi-Tei,table service,yes,$$$$,open,"Hakkaisan Tokubetsu - Niigata, Japan",beverage,$17.00 glass / $81.00 bottle,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Edamame,appetizer,$8.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Miso Soup,appetizer,$6.50,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Soy Butter Calamari,appetizer,$16.50,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Takoyaki,appetizer,$12.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Wafu Ribs,appetizer,$15.00,ADAPTED,Japanese-style seasoning on American-style ribs
+Japan,Teppan Edo,table service,no,$$,open,Calamari Steak,appetizer,$16.50,ADAPTED,lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Wagyu Roast Beef,appetizer,$13.00,ADAPTED,Japanese wagyu in a Western roast beef preparation; lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Chicken,entree,$34.00,NATIVE,teppanyaki; lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Shrimp,entree,$17.00,NATIVE,teppanyaki; lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Vegetables,entree,$28.00,NATIVE,teppanyaki; lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Wagyu Julienne Steak,entree,$69.00,NATIVE,Japanese wagyu; lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Scallops (enhancement),entree,$31.00,NATIVE,lunch menu
+Japan,Teppan Edo,table service,no,$$,open,Tori,entree,$34.00,NATIVE,teppanyaki chicken
+Japan,Teppan Edo,table service,no,$$,open,Yasai,entree,$28.00,NATIVE,teppanyaki vegetables
+Japan,Teppan Edo,table service,no,$$,open,Ebi,entree,$35.00,NATIVE,teppanyaki shrimp
+Japan,Teppan Edo,table service,no,$$,open,Salmon,entree,$39.00,ADAPTED,salmon teppanyaki; not a traditional Japanese teppan protein
+Japan,Teppan Edo,table service,no,$$,open,Julienne Steak,entree,$45.00,ADAPTED,Western steak cut cooked teppanyaki style
+Japan,Teppan Edo,table service,no,$$,open,NY Cut Steak,entree,$45.00,ADAPTED,Western steak cut cooked teppanyaki style
+Japan,Teppan Edo,table service,no,$$,open,Asakusa,entree,$48.00,ADAPTED,combination plate named for a Tokyo district
+Japan,Teppan Edo,table service,no,$$,open,Nihonbashi,entree,$48.00,ADAPTED,combination plate named for a Tokyo district
+Japan,Teppan Edo,table service,no,$$,open,Ueno,entree,$42.00,ADAPTED,combination plate named for a Tokyo district
+Japan,Teppan Edo,table service,no,$$,open,Asakusa Premium,entree,$88.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Nihonbashi Premium,entree,$88.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Kanda,entree,$66.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Ryogoku,entree,$66.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Ebi (premium enhancement),entree,$17.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Hotate (premium enhancement),entree,$31.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Mixed Mushrooms (premium enhancement),entree,$16.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Filet Mignon (premium enhancement),entree,$37.00,ADAPTED,Western cut
+Japan,Teppan Edo,table service,no,$$,open,Lobster Tail (premium enhancement),entree,$38.00,ADAPTED,Western surf-and-turf convention
+Japan,Teppan Edo,table service,no,$$,open,Ebi,entree,$18.00,NATIVE,kids menu
+Japan,Teppan Edo,table service,no,$$,open,Tori,entree,$18.00,NATIVE,kids menu
+Japan,Teppan Edo,table service,no,$$,open,Yasai,entree,$18.00,NATIVE,kids menu
+Japan,Teppan Edo,table service,no,$$,open,Salmon,entree,$24.00,ADAPTED,kids menu
+Japan,Teppan Edo,table service,no,$$,open,Julienne Steak,entree,$26.00,ADAPTED,kids menu
+Japan,Teppan Edo,table service,no,$$,open,California Roll,entree,$17.50,ADAPTED,invented in North America
+Japan,Teppan Edo,table service,no,$$,open,Spicy Roll,entree,$18.50,ADAPTED,spicy mayo rolls are an American sushi convention
+Japan,Teppan Edo,table service,no,$$,open,Volcano Roll,entree,$24.50,ADAPTED,American sushi-bar creation
+Japan,Teppan Edo,table service,no,$$,open,Sashimi Sampler,appetizer,$17.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Sushi Sampler,appetizer,$18.50,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Chocolate Lava Cake,dessert,$16.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Ice Cream,dessert,$6.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Mango Mousse Cake,dessert,$10.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Kirin Draft 20oz,beverage,$14.00,NATIVE,Japanese brewery
+Japan,Teppan Edo,table service,no,$$,open,Kirin Light 12-oz,beverage,$12.00,NATIVE,Japanese brewery
+Japan,Teppan Edo,table service,no,$$,open,Sapporo Premium 20oz,beverage,$14.00,NATIVE,Japanese brewery
+Japan,Teppan Edo,table service,no,$$,open,Hana Awaka,beverage,$28.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Karatamba,beverage,$30.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Moon on the Water,beverage,$48.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Ozeki Sake (Hot/Cold),beverage,$15.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Premium Sake Flight,beverage,$30.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Sho Chiku Bai,beverage,$25.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Shoune,beverage,$48.00,NATIVE,Japanese sake
+Japan,Teppan Edo,table service,no,$$,open,Haku Vodka,beverage,$15.00,NATIVE,Japanese distiller
+Japan,Teppan Edo,table service,no,$$,open,Roku Gin,beverage,$15.00,NATIVE,Japanese distiller
+Japan,Teppan Edo,table service,no,$$,open,Toki - Single,beverage,$15.00,NATIVE,Japanese whisky
+Japan,Teppan Edo,table service,no,$$,open,Toki - Double,beverage,$28.00,NATIVE,Japanese whisky
+Japan,Teppan Edo,table service,no,$$,open,Legent Bourbon,beverage,$15.00,UNCLEAR,American bourbon finished by a Japanese blender
+Japan,Teppan Edo,table service,no,$$,open,Iced Blood Orange,beverage,$15.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Japanese Breeze,beverage,$15.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Momo Whiskey Sour,beverage,$15.00,ADAPTED,Japanese whisky and peach in a Western sour
+Japan,Teppan Edo,table service,no,$$,open,Nigori Mimosa,beverage,$15.00,ADAPTED,nigori sake in a Western mimosa
+Japan,Teppan Edo,table service,no,$$,open,Tokyo Sunset,beverage,$16.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Violet Sake,beverage,$16.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Mojito,beverage,$15.00,GENERIC,Cuban cocktail
+Japan,Teppan Edo,table service,no,$$,open,Pina Colada,beverage,$15.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Assorted Coca-Cola Fountain Beverages,beverage,$5.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Iced or Hot Green Tea,beverage,$5.00,NATIVE,
+Japan,Teppan Edo,table service,no,$$,open,Lemonade,beverage,$5.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,Ramune,beverage,$8.00,NATIVE,Japanese soft drink
+Japan,Teppan Edo,table service,no,$$,open,Ichigo Colada,beverage,$10.00,ADAPTED,
+Japan,Teppan Edo,table service,no,$$,open,Yuzu Lemonade,beverage,$8.00,ADAPTED,yuzu is Japanese; lemonade format is not
+Japan,Teppan Edo,table service,no,$$,open,"Hakutsuru Plum Wine, Kobe, Japan",beverage,$14.00,NATIVE,Japanese producer
+Japan,Teppan Edo,table service,no,$$,open,"Mumm Napa Prestige Brut, Napa Valley, California",beverage,$22.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,"Rainstorm Pinot Noir, Willamette Valley, Oregon",beverage,$18.00,GENERIC,
+Japan,Teppan Edo,table service,no,$$,open,"Zenato Pinot Grigio, Veneto, Italy",beverage,$18.00,GENERIC,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tuna (nigiri),appetizer,$8.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Bluefin Tuna Akami (nigiri),appetizer,$16.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Bluefin Tuna Chutoro (nigiri),appetizer,$22.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Bluefin Tuna Toro (nigiri),appetizer,$26.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Hamachi (nigiri),appetizer,$9.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Madai (nigiri),appetizer,$9.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Salmon (nigiri),appetizer,$8.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Shime Saba (nigiri),appetizer,$7.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Amaebi (nigiri),appetizer,$16.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Hotate (nigiri),appetizer,$12.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tako (nigiri),appetizer,$7.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tamago (nigiri),appetizer,$7.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Unagi (nigiri),appetizer,$8.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Ikura (nigiri),appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Masago (nigiri),appetizer,$7.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Negitoro (nigiri),appetizer,$14.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Ebi (nigiri),appetizer,$10.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Uni (nigiri),appetizer,$24.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Yari Ika (nigiri),appetizer,$10.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Aji (nigiri),appetizer,$9.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Aji Combo,appetizer,$38.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tuna (sashimi),appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Salmon (sashimi),appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Sashimi Moriawase A,appetizer,$50.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Sashimi Moriawase B,appetizer,$100.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Temaki Sushi Set A,entree,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Temaki Sushi Set B,entree,$38.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Fune - Boat,entree,$300.00,NATIVE,chef special / sushi combination
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Hashi - Bridge,entree,$100.00,NATIVE,chef special / sushi combination
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Kobore Sushi,entree,$30.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Ume,entree,$25.00,NATIVE,sushi combination
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Take,entree,$50.00,NATIVE,sushi combination
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Matsu,entree,$100.00,NATIVE,sushi combination
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Dragon Roll,entree,$28.00,ADAPTED,American sushi-bar creation
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tokyo Negi Roll,entree,$20.00,ADAPTED,house creation
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Spicy Crunch Roll,entree,$18.00,ADAPTED,American sushi-bar creation
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Grilled Eel Roll,entree,$20.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Grilled Seafood Roll,entree,$26.00,ADAPTED,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Vegetable Roll,entree,$8.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Rainbow Roll,entree,$24.00,ADAPTED,American sushi-bar creation
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Philadelphia Roll,entree,$16.00,ADAPTED,American invention using cream cheese
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Snow Crab California Roll,entree,$18.00,ADAPTED,California roll is a North American invention
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Spicy Tuna Roll,entree,$16.00,ADAPTED,American sushi-bar convention
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Shrimp Tempura Roll,entree,$18.00,ADAPTED,American sushi-bar convention
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Avocado Roll,entree,$8.00,ADAPTED,avocado is not a traditional Japanese sushi ingredient
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Salmon Roll,entree,$13.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Kaisen Don,entree,$38.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Spicy Tuna Don,entree,$28.00,ADAPTED,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Unagi Don A,entree,$20.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Maguro Tataki,appetizer,$24.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Takoyaki,appetizer,$10.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Kara-Age Chicken,appetizer,$12.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Miso Soup,appetizer,$6.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Clam Miso Soup,appetizer,$10.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tsukemono,appetizer,$7.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Edamame,appetizer,$8.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Eggplant,appetizer,$9.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,House-Made Salad,appetizer,$9.90,GENERIC,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Sakamushi Clam,appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Rock Shrimp Tempura,appetizer,$24.00,ADAPTED,American sushi-bar dish
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Ika Geso,appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Fish Tempura,appetizer,$18.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Grilled Wagyu Gyoza,appetizer,$21.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Agedashi Tofu,appetizer,$14.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Vegetable Tempura,appetizer,$15.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Chicken Nanban,entree,$16.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Salmon Miso Yaki,entree,$22.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Kushi Assorted,entree,$30.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Vegetable Kushi Assorted,entree,$30.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Wagyu Steak,entree,$88.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Wagyu Nigiri,entree,$79.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Wagyu Don,entree,$79.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Wagyu Tataki,entree,$77.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Oyakodon (Chicken & Egg Rice Bowl),entree,$28.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Tendon (Tempura Rice Bowl),entree,$28.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Okonomiyaki,entree,$28.00,NATIVE,
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Vegetable Okonomiyaki,entree,$25.00,ADAPTED,vegetable version of okonomiyaki
+Japan,Shiki-Sai: Sushi Izakaya,table service,no,$$,open,Beef Yaki Udon,entree,$28.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Chicken Cutlet Curry,entree,$16.99,NATIVE,katsu curry
+Japan,Katsura Grill,quick service,no,$,open,Curry Udon,entree,$13.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Beef Udon,entree,$15.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Shrimp Tempura Udon,entree,$13.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Tonkotsu (Pork) Ramen,entree,$15.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Yasai (Vegetable) Udon,entree,$13.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Chicken Teriyaki,entree,$14.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Chicken and Beef Teriyaki,entree,$15.99,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Chicken Teriyaki,entree,$8.50,NATIVE,kids menu
+Japan,Katsura Grill,quick service,no,$,open,Edamame,side,$5.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Garden Salad,side,$6.00,GENERIC,
+Japan,Katsura Grill,quick service,no,$,open,Miso Soup,side,$4.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,White Rice,side,$3.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Japanese Cocktails,beverage,$14.00,ADAPTED,not itemised on the published menu
+Japan,Katsura Grill,quick service,no,$,open,Kirin Draft Beer,beverage,$14.00,NATIVE,Japanese brewery
+Japan,Katsura Grill,quick service,no,$,open,Kirin Light Beer,beverage,$12.00,NATIVE,Japanese brewery
+Japan,Katsura Grill,quick service,no,$,open,Sapporo Draft Beer,beverage,$14.00,NATIVE,Japanese brewery
+Japan,Katsura Grill,quick service,no,$,open,Nigori (Unfiltered) Sake,beverage,$11.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Sake,beverage,$10.00,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Plum Wine,beverage,$11.00,ADAPTED,producer not published
+Japan,Katsura Grill,quick service,no,$,open,Japanese Mineral Water,beverage,$4.25,NATIVE,
+Japan,Katsura Grill,quick service,no,$,open,Assorted Fountain Beverages,beverage,$4.99,GENERIC,
+Japan,Katsura Grill,quick service,no,$,open,DASANI Bottled Water,beverage,$4.00,GENERIC,
+Japan,Katsura Grill,quick service,no,$,open,Smartwater,beverage,$6.25,GENERIC,
+Japan,Katsura Grill,quick service,no,$,open,Apple Juice,beverage,$3.50,GENERIC,
+Japan,Katsura Grill,quick service,no,$,open,Lowfat Milk,beverage,$3.50,GENERIC,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kakigori with Single Flavor,dessert,$6.50,NATIVE,regular and large sizes listed at identical prices; collapsed
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kakigori with Two Flavors,dessert,$7.00,NATIVE,regular and large sizes listed at identical prices; collapsed
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kakigori Rainbow,dessert,$7.50,NATIVE,regular and large sizes listed at identical prices; collapsed
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,California Roll,entree,$12.50,ADAPTED,invented in North America
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Spicy Roll,entree,$12.00,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Tokyo Sushi Combo,entree,$14.00,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Vegetable Roll,entree,$10.50,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,A5 Wagyu Nigiri Combo,entree,$16.50,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Spicy Roll (snack size),entree,$12.50,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Tokyo Sushi Combo (snack size),entree,$14.50,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Cold Sake,beverage,$9.00,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Hot Sake,beverage,$9.00,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Nigori Sake,beverage,$10.00,NATIVE,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kirin Ichiban,beverage,$12.00,NATIVE,Japanese brewery
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kirin Light,beverage,$11.00,NATIVE,Japanese brewery
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Kirin Frozen,beverage,$13.00,ADAPTED,frozen beer-foam serve
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Sapporo Premium,beverage,$12.00,NATIVE,Japanese brewery
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Plum Wine,beverage,$9.00,ADAPTED,producer not published
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Blackberry Sake Slushie,beverage,$13.00,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Blood Orange Sake Slushie,beverage,$13.00,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Coconut Pineapple Sake Slushie,beverage,$13.00,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Violet Sake Slushie,beverage,$14.00,ADAPTED,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,Assorted Bottled Beverages,beverage,$4.99,GENERIC,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+Japan,Kabuki Cafe,kiosk/cart,no,$,open,POWERADE,beverage,$4.99,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Chicken Bastilla,appetizer,$11.00,NATIVE,
+Morocco,Spice Road Table,table service,no,$$,open,Spiced Lamb Kefta,appetizer,$13.00,NATIVE,
+Morocco,Spice Road Table,table service,no,$$,open,Lemon-Vegetable Tagine,entree,$13.00,NATIVE,
+Morocco,Spice Road Table,table service,no,$$,open,Lemon-Vegetable Couscous Tagine,entree,$13.00,NATIVE,appears as a second wording of the tagine on the same menu
+Morocco,Spice Road Table,table service,no,$$,open,Spice Road Table Sampler,entree,$16.00,NATIVE,sampler of the Moroccan small plates
+Morocco,Spice Road Table,table service,no,$$,open,Spice Road Table Bread Service,appetizer,$11.00,NATIVE,
+Morocco,Spice Road Table,table service,no,$$,open,Calamari,appetizer,$13.00,UNCLEAR,pan-Mediterranean rather than specifically Moroccan; preparation not published
+Morocco,Spice Road Table,table service,no,$$,open,Spicy Shrimp,appetizer,$15.00,UNCLEAR,preparation not published
+Morocco,Spice Road Table,table service,no,$$,open,Dessert Platter,dessert,$11.00,UNCLEAR,contents not published
+Morocco,Spice Road Table,table service,no,$$,open,House-made Hummus Fries,appetizer,$10.00,ADAPTED,hummus is Levantine and the fry format is American
+Morocco,Spice Road Table,table service,no,$$,open,Naan Spreads,appetizer,$11.00,ADAPTED,"naan is South Asian, not Moroccan"
+Morocco,Spice Road Table,table service,no,$$,open,Pomegranate-Chili Crispy Cauliflower,appetizer,$11.00,ADAPTED,
+Morocco,Spice Road Table,table service,no,$$,open,Crispy Pomegranate-Chili Cauliflower,appetizer,$11.00,ADAPTED,appears as a second wording of the same dish
+Morocco,Spice Road Table,table service,no,$$,open,Iced Mint Tea,beverage,$5.29,NATIVE,Moroccan mint tea
+Morocco,Spice Road Table,table service,no,$$,open,Moroccan Hot Tea Service,beverage,$5.29,NATIVE,
+Morocco,Spice Road Table,table service,no,$$,open,Assorted Fountain Beverages,beverage,$4.99,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Premium Sparkling Water,beverage,$5.50,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,smartwater,beverage,$6.25,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Mediterranean Beer,beverage,$11.00,UNCLEAR,brand and country not published
+Morocco,Spice Road Table,table service,no,$$,open,Moroccan Blonde Ale,beverage,$12.50,UNCLEAR,named Moroccan but the brewery is not published
+Morocco,Spice Road Table,table service,no,$$,open,Iced Mint Tea (alcoholic),beverage,$16.50,ADAPTED,spiked version of the Moroccan tea
+Morocco,Spice Road Table,table service,no,$$,open,Medina Mixer,beverage,$17.50,ADAPTED,
+Morocco,Spice Road Table,table service,no,$$,open,Moroccan Mule,beverage,$17.50,ADAPTED,mule format is American
+Morocco,Spice Road Table,table service,no,$$,open,Sahara Spritz,beverage,$17.50,ADAPTED,
+Morocco,Spice Road Table,table service,no,$$,open,Blood Orange Mimosa,beverage,$15.50,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Hibiscus Mimosa,beverage,$15.50,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Pomegranate Mimosa,beverage,$15.50,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,Pomegranate Acai,beverage,$15.50,GENERIC,
+Morocco,Spice Road Table,table service,no,$$,open,House-made Sangria,beverage,$16.00,GENERIC,sangria is Spanish
+Morocco,Spice Road Table,table service,no,$$,open,"Burgans Albarino, Spain",beverage,$52.00,GENERIC,"Spanish wine, not Moroccan"
+Morocco,Spice Road Table,table service,no,$$,open,"CVNE 'Cune' Rioja Crianza, Spain",beverage,$11.00,GENERIC,Spanish wine
+Morocco,Spice Road Table,table service,no,$$,open,"Domaine Sigalas Assyrtiko, Santorini",beverage,$20.00,GENERIC,Greek wine
+Morocco,Spice Road Table,table service,no,$$,open,"Espelt Garnacha Old Vines, Spain",beverage,$52.00,GENERIC,Spanish wine
+Morocco,Spice Road Table,table service,no,$$,open,"Marques de Caceres Excellens Rose, Spain",beverage,$44.00,GENERIC,Spanish wine
+Morocco,Spice Road Table,table service,no,$$,open,"Mas Fi Cava Brut, Spain",beverage,$12.00,GENERIC,Spanish wine
+Morocco,Spice Road Table,table service,no,$$,open,"Paul Cheneau Lady of Spain Cava Brut, Spain",beverage,$56.00,GENERIC,Spanish wine
+Morocco,Spice Road Table,table service,no,$$,open,"Skouras Moscofilero, Peloponnese",beverage,$62.00,GENERIC,Greek wine
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Moroccan Wrap with Tomato-Cucumber Relish and Garlic Sauce served on Warm Moroccan Flatbread,entree,$6.29,NATIVE,PARTIAL MENU - festival offering; this venue no longer runs a standing menu
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Stone-baked Moroccan Bread with Assorted Dips,appetizer,$5.29,NATIVE,PARTIAL MENU - festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Chermoula Chicken Hummus Bowl,entree,$6.79,ADAPTED,Moroccan chermoula with Levantine hummus in an American bowl format; festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Ras el Hanout Cauliflower Bowl,entree,$6.49,ADAPTED,Moroccan spice blend in an American bowl format; festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Spiced Flank Steak Hummus Bowl,entree,$7.29,ADAPTED,festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Plant-based Falafel Wrap,entree,$6.29,UNCLEAR,falafel is Levantine and Egyptian rather than Moroccan; festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Chocolate-Pistachio Cookie,dessert,$4.29,GENERIC,festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Fig Cocktail,beverage,$12.00,ADAPTED,festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Hard Cider Flight,beverage,$12.75,GENERIC,festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,"Blake's Hard Cider Co. Pomegranate Fizz Hard Cider, Armada, MI",beverage,$6.00,GENERIC,American cider; festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,Blake's Hard Cider Co. Pomegranate Fizz Hard Cider Flight,beverage,$12.75,GENERIC,festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,"Keel Farms Blueberry Lavender Hard Cider, Plant City, FL",beverage,$6.00,GENERIC,American cider; festival offering
+Morocco,Tangierine Cafe: Flavors of the Medina,quick service,no,$,open - festival menus only,"Rekorderlig Strawberry-Lime Hard Cider, Vimmerby, Sweden",beverage,$6.00,GENERIC,Swedish cider; festival offering
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Pastry Assortment (per each),dessert,$3.79,NATIVE,Moroccan pastries
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Pastry Assortment (Pick 3),dessert,$6.79,NATIVE,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Pastry Assortment (Pick 5),dessert,$11.49,NATIVE,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Pastry Assortment (Pick 7),dessert,$15.79,NATIVE,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Frozen Mint Tea,beverage,$6.29,ADAPTED,Moroccan mint tea in a frozen format
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Frozen Citrus-Pomegranate Slushy,beverage,$6.29,ADAPTED,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Strawberry Smoothie,beverage,$6.29,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,"Coca-Cola, Diet Coke, Sprite",beverage,$5.50,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,POWERADE,beverage,$5.50,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,smartwater,beverage,$6.25,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Mediterranean Beer,beverage,$11.00-$12.50,UNCLEAR,brand and country not published
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Frozen Mint Tea (alcoholic),beverage,$17.50,ADAPTED,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Frozen Citrus-Pomegranate Slushy (alcoholic),beverage,$16.50,ADAPTED,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Blood Orange Mimosa,beverage,$15.50,GENERIC,
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Opici Family Sangria,beverage,$14.00,GENERIC,sangria is Spanish
+Morocco,Oasis Sweets & Sips,kiosk/cart,no,$,open,Strawberry Daiquiri,beverage,$17.50,GENERIC,
+Morocco,Restaurant Marrakesh,table service,no,n/a,closed,,,,,"NO MENU - has not operated as a dining location since the 2020 closure and has no announced reopening date. Counted as a closed venue, not an operating one."
+France,Monsieur Paul,table service,yes,$$$$,open,Cocktail Maison et Amuse-bouche,appetizer,Included,NATIVE,prix fixe $195 per adult
+France,Monsieur Paul,table service,yes,$$$$,open,"Betterave en textures, nage vegetale parfumee",appetizer,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,Soupe de moules aux pistils de safran,appetizer,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,Trou Normand (refreshing palate cleanser),appetizer,Included,NATIVE,the trou normand is a French convention
+France,Monsieur Paul,table service,yes,$$$$,open,"Bar en croute feuilletee, sauce Choron, grand mets de Monsieur Paul",entree,Included,NATIVE,Bocuse signature
+France,Monsieur Paul,table service,yes,$$$$,open,Coquilles Saint Jacques au potimarron et sirop d'erable,entree,Included,ADAPTED,classical French scallop dish finished with North American maple syrup
+France,Monsieur Paul,table service,yes,$$$$,open,"Carre d'agneau rotie en cocotte, choux vert frise farci aux champignons des bois et chataignes, jus court au thym frais",entree,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,"Volaille Fermiere en fricassee aux morilles, riz pilaf a la Matignon de legumes et truffes",entree,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,Assiette de fromages,appetizer,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,"Sphere de chocolat au lait, glace au chocolat, sauce tiede au chocolat et cognac",dessert,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,"Tarte aux pommes fine, creme d'amandes, glace vanille",dessert,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,Mignardises (mini desserts),dessert,Included,NATIVE,
+France,Monsieur Paul,table service,yes,$$$$,open,Assorted Mini Desserts served with a Digestif Cocktail,dessert,Included,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Blinis de Saumon fume, sauce a l'aneth",appetizer,$19.95,ADAPTED,the blini is Russian; smoked-salmon blinis are a French bistro adoption
+France,Chefs de France,table service,no,$$,open,Salade de Saison,appetizer,$12.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Salade de betteraves et chevre frais,appetizer,$15.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Cassolette d'escargots de Bourgogne au beurre persille,appetizer,$17.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Rillettes au deux Saumon, Brioche, sauce a l'aneth",appetizer,$18.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Salade aux lardons et croutons,appetizer,$12.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Salade de chevre chaud,appetizer,$16.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Soupe a l'oignon gratinee,appetizer,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Poulet au Vinaigre,entree,$39.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Boeuf Bourguignon,entree,$39.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Filet de saumon, riz pilaf, sauce beurre blanc",entree,$38.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Fruits de la Mer, tarte aux epinard, sauce au homard",entree,$39.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Gratin de macaroni,entree,$26.95,ADAPTED,French gratin technique applied to American macaroni
+France,Chefs de France,table service,no,$$,open,"Jarret de Porc Braise, ragout de lentilles de puy, petit oignons",entree,$39.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Plateau de fromages et charcuteries,entree,$40.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Poulet Cordon Bleu,entree,$39.95,UNCLEAR,cordon bleu has a French name but a Swiss origin
+France,Chefs de France,table service,no,$$,open,Ratatouille Provencale,entree,$28.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Steak Frites, entrecote grille, pommes frites, sauce bernaise",entree,$54.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Filet de Boeuf, Sauce Au poivre",entree,$58.95,NATIVE,dinner menu
+France,Chefs de France,table service,no,$$,open,Le Croissant du Boucher,entree,$29.95,ADAPTED,invented croissant sandwich; dinner menu
+France,Chefs de France,table service,no,$$,open,Supreme de poulet roti,entree,$39.95,NATIVE,dinner menu
+France,Chefs de France,table service,no,$$,open,Menu Francais (prix fixe),entree,$67.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Nougat glace aux oranges confites, sorbet framboise",dessert,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Assiette de Sorbets du jour,dessert,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Baba,dessert,$14.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Creme Brulee,dessert,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Cygne profiterole, glace a la vanille, sauce chocolat",dessert,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,"Gateau aux 3 chocolats, glace a la vanille",dessert,$14.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Macaron a la fraise,dessert,$13.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Mousse au Chocolat,dessert,$6.95,NATIVE,kids menu
+France,Chefs de France,table service,no,$$,open,Tarte aux Fraises,dessert,$6.75,NATIVE,kids menu
+France,Chefs de France,table service,no,$$,open,"Blanc de Poulet, Frite",entree,$11.95,GENERIC,kids menu
+France,Chefs de France,table service,no,$$,open,Croquette de Boeuf en Brioche,entree,$12.95,ADAPTED,kids menu
+France,Chefs de France,table service,no,$$,open,Filet de Saumon,entree,$13.95,NATIVE,kids menu
+France,Chefs de France,table service,no,$$,open,Assorted French Pastries,dessert,No price published,NATIVE,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Cheeses & Charcuterie,appetizer,No price published,NATIVE,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Freshly Baked Baguettes,appetizer,No price published,NATIVE,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Smoked Salmon,appetizer,No price published,NATIVE,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Fresh Fruit,appetizer,No price published,GENERIC,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Unlimited Mimosas,beverage,No price published,GENERIC,Parisian Breakfast offering
+France,Chefs de France,table service,no,$$,open,Berry Rouge,beverage,$18.95,ADAPTED,
+France,Chefs de France,table service,no,$$,open,Biere Kronenbourg 1664,beverage,$9.95,NATIVE,French brewery
+France,Chefs de France,table service,no,$$,open,Cocktail des Chefs,beverage,$13.95,ADAPTED,
+France,Chefs de France,table service,no,$$,open,Coupe de Champagne,beverage,$21.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Dubonnet Red,beverage,$9.40,NATIVE,French aperitif
+France,Chefs de France,table service,no,$$,open,French Fashioned,beverage,$17.95,ADAPTED,Old Fashioned format with French spirits
+France,Chefs de France,table service,no,$$,open,French Martini,beverage,$16.95,ADAPTED,
+France,Chefs de France,table service,no,$$,open,Kir Imperial,beverage,$23.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Kir Royal,beverage,$22.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Kir au Cassis,beverage,$11.95,NATIVE,
+France,Chefs de France,table service,no,$$,open,Lillet Blanc,beverage,$11.95,NATIVE,French aperitif
+France,Chefs de France,table service,no,$$,open,Pernod-Ricard,beverage,$10.45,NATIVE,French pastis
+France,Chefs de France,table service,no,$$,open,St-Germain Cocktail,beverage,$18.95,ADAPTED,French elderflower liqueur in an invented cocktail
+France,Chefs de France,table service,no,$$,open,Evian,beverage,$9.95,NATIVE,French mineral water
+France,Chefs de France,table service,no,$$,open,Limonade,beverage,$6.25,NATIVE,
+France,Chefs de France,table service,no,$$,open,Orangina,beverage,$6.75,NATIVE,French soft drink
+France,Chefs de France,table service,no,$$,open,Perrier 33mL,beverage,$5.00,NATIVE,French mineral water
+France,Chefs de France,table service,no,$$,open,Perrier 750mL,beverage,$9.95,NATIVE,French mineral water
+France,Chefs de France,table service,no,$$,open,Cafe,beverage,$4.25,NATIVE,
+France,Chefs de France,table service,no,$$,open,Cafe Espresso,beverage,$4.75,NATIVE,
+France,Chefs de France,table service,no,$$,open,Cafe Cappuccino,beverage,$5.25,ADAPTED,cappuccino is an Italian preparation
+France,Chefs de France,table service,no,$$,open,Diabolo Menthe,beverage,$5.25,NATIVE,French cafe drink
+France,Chefs de France,table service,no,$$,open,"Coca-Cola, Sprite, or Diet Coke Caffeine-free",beverage,$4.75,GENERIC,
+France,Chefs de France,table service,no,$$,open,Jus d'Orange - Orange Juice,beverage,$5.00,GENERIC,
+France,Chefs de France,table service,no,$$,open,Lait - Milk,beverage,$4.29,GENERIC,
+France,Chefs de France,table service,no,$$,open,Shirley Temple,beverage,$5.25,GENERIC,
+France,Chefs de France,table service,no,$$,open,The,beverage,$4.50,GENERIC,
+France,Chefs de France,table service,no,$$,open,The Glace - Nestea Iced Tea,beverage,$4.75,GENERIC,
+France,Chefs de France,table service,no,$$,open,"Beaujolais Villages, G.Duboeuf, 2020",beverage,$12.15,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Bourgogne Blanc, Bouchard Aine & fils, 2022",beverage,$16.75,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Bourgogne Rouge, Bouchard Aine & fils, 2022",beverage,$16.75,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Champagne, Dom Perignon, 2012",beverage,$765.00,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Champagne, Laurent Perrier Rose, N.V.",beverage,$285.00,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Champagne, Malard, Excellence, Brut",beverage,$21.95,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Champagne, Veuve Clicquot Ponsardin, Brut, N.V.",beverage,$194.50,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Chateau Baron de Brane, Margaux, 2019",beverage,$181.50,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Chateau Cormeil Figeac, Saint-Emilion, 2018",beverage,$138.60,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Chateau Fonfroide, 2019",beverage,$11.85,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Chateau Haut Mondain, 2020",beverage,$13.90,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Chateau Larose-Trintaudon, Haut-Medoc, 2019",beverage,$103.15,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Cotes du Rhone, Les Abeilles, J.L. Colombo, 2021",beverage,$12.85,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"La Glaciere Blanc, Coteaux du Pont du Guard, Chardonnay",beverage,$13.50,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"La Glaciere Rouge, Cevennes, Merlot and Syrah Blend",beverage,$13.50,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,Les Vins des Chefs,beverage,$8.95,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"L'Opale de La Presqu'ile de Saint-Tropez, 2023",beverage,$16.00,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Malbec, Fleur des Templiers, 2023",beverage,$11.50,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Mas La Chevaliere, 2023",beverage,$10.95,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Mercurey, Domaine Faiveley, 2021",beverage,$149.00,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Morgon, G. Duboeuf, 2020",beverage,$16.75,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Pinot Blanc, Alsace, Pierre Sparr, 2022",beverage,$13.95,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Pouilly Fuisse, Paul Bocuse, 2020",beverage,$131.25,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Riesling, Alsace, Pierre Sparr, 2022",beverage,$15.25,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Sauvignon Blanc, Louis de Camponac, 2022",beverage,$12.00,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Sparkling, Veuve Dubarry, Cuvee Prestige, Brut",beverage,$10.45,NATIVE,French wine
+France,Chefs de France,table service,no,$$,open,"Vouvray, Loire Valley, Sauvion, 2022",beverage,$13.15,NATIVE,French wine
+France,La Creperie de Paris,table service,no,$$,open,Salade Maison,appetizer,$9.25,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Soupe du Jour,appetizer,$9.25,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Galette Chevre,entree,$18.50,NATIVE,"buckwheat galette, a Breton speciality"
+France,La Creperie de Paris,table service,no,$$,open,Galette Classique,entree,$18.50,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Galette Poulet,entree,$18.50,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Galette Ratatouille,entree,$18.50,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Galette Saumon,entree,$18.50,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Galette Savoyarde,entree,$18.50,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Crepe Sucre,dessert,$7.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Crepe Banane,dessert,$10.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Crepe Gourmande,dessert,$10.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Crepe Melba,dessert,$10.95,NATIVE,peche Melba was created by Escoffier
+France,La Creperie de Paris,table service,no,$$,open,Crepe Poire,dessert,$10.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Crepe Pomme,dessert,$10.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Add a Shot to Any Crepe,dessert,$8.75,ADAPTED,
+France,La Creperie de Paris,table service,no,$$,open,Add-On's,dessert,$3.50,GENERIC,
+France,La Creperie de Paris,table service,no,$$,open,Prix Fixe Menu,entree,$39.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Menu Enfant Prix Fixe Menu,entree,$16.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Cidre Brut,beverage,$32.00,NATIVE,French hard cider
+France,La Creperie de Paris,table service,no,$$,open,Cidre Demi Sec,beverage,$32.00,NATIVE,French hard cider
+France,La Creperie de Paris,table service,no,$$,open,Cidre Doux,beverage,$32.00,NATIVE,French hard cider
+France,La Creperie de Paris,table service,no,$$,open,Cidre Rose,beverage,$42.00,NATIVE,French hard cider
+France,La Creperie de Paris,table service,no,$$,open,Biere Kronenbourg,beverage,$9.95,NATIVE,French brewery
+France,La Creperie de Paris,table service,no,$$,open,Biere La Belle Epoque,beverage,$9.95,NATIVE,French brewery
+France,La Creperie de Paris,table service,no,$$,open,Champagne Malard,beverage,$21.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,French Martini,beverage,$16.75,ADAPTED,
+France,La Creperie de Paris,table service,no,$$,open,Mimosa,beverage,$12.75,GENERIC,
+France,La Creperie de Paris,table service,no,$$,open,Cider Mojito,beverage,$13.75,ADAPTED,French cider in a Cuban cocktail format
+France,La Creperie de Paris,table service,no,$$,open,Cafe,beverage,$4.25,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Espresso,beverage,$5.15,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Cappuccino,beverage,$5.65,ADAPTED,Italian preparation
+France,La Creperie de Paris,table service,no,$$,open,The,beverage,$4.50,GENERIC,
+France,La Creperie de Paris,table service,no,$$,open,Assorted Fountain Beverage,beverage,$4.95,GENERIC,
+France,La Creperie de Paris,table service,no,$$,open,Evian,beverage,$9.95,NATIVE,French mineral water
+France,La Creperie de Paris,table service,no,$$,open,Jus de Pomme,beverage,$5.00,GENERIC,
+France,La Creperie de Paris,table service,no,$$,open,Limonade,beverage,$6.95,NATIVE,
+France,La Creperie de Paris,table service,no,$$,open,Cabernet Sauvignon,beverage,$42.95,NATIVE,French wine
+France,La Creperie de Paris,table service,no,$$,open,Chardonnay,beverage,$41.95,NATIVE,French wine
+France,La Creperie de Paris,table service,no,$$,open,Merlot,beverage,$41.95,NATIVE,French wine
+France,La Creperie de Paris,table service,no,$$,open,Rose de Provence,beverage,$75.00,NATIVE,French wine
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Baguette - Full,appetizer,$4.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Baguette - Half,appetizer,$2.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croissant Sale,entree,$9.75,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croque Monsieur,entree,$10.75,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Florentine Quiche,entree,$9.95,ADAPTED,quiche form with a non-traditional florentine filling
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Fromages,appetizer,$12.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Pain Lard Fromage,entree,$8.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Pissaladiere,entree,$6.95,NATIVE,Nicoise speciality
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Quiche Lorraine,entree,$7.50,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Soupe du Jour,appetizer,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Brie aux Pommes,entree,$10.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croissant Jambon Fromage,entree,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Dinde B.L.T.,entree,$10.95,ADAPTED,the BLT is American
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Jambon Beurre,entree,$11.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Poulet au Pistou,entree,$11.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Beignet,dessert,$5.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Biscuit Chocolat,dessert,$5.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croissant,dessert,$3.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croissant Amandes,dessert,$6.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Pain au Chocolat,dessert,$4.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Patisserie a l'abricot,dessert,$5.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Viennoiserie Pomme,dessert,$5.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Citron Blueberry,dessert,$7.95,ADAPTED,blueberry is not a traditional French patisserie fruit
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Croiss Oh La La,dessert,$13.95,ADAPTED,oversized novelty croissant
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Cafe Liegois,dessert,$7.50,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Creme Brulee,dessert,$5.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Duo Au Chocolat,dessert,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Framboise,dessert,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Macaron Framboise et Citron vert,dessert,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Macaron Chocolat,dessert,$7.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Macaron Plant Based,dessert,$8.95,ADAPTED,plant-based reformulation
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Macarons Collection,dessert,$13.75,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Macarons Large Collection,dessert,$26.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Mousse au Chocolat,dessert,$7.50,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Napoleon,dessert,$6.95,NATIVE,mille-feuille
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Parfait aux Fruits,dessert,$7.50,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Tarte au Chocolat et Caramel,dessert,$7.50,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Tarte au Citron,dessert,$7.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Tarte aux Fraises,dessert,$7.75,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Eclair Chocolate,dessert,$5.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Eclair Vanille,dessert,$5.75,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Ourson,dessert,$5.95,ADAPTED,novelty bear-shaped pastry
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Cafe,beverage,$3.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Espresso,beverage,$5.25,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Cappuccino,beverage,$5.65,ADAPTED,Italian preparation
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Latte,beverage,$5.65,ADAPTED,Italian preparation
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Chocolat Chaud,beverage,$4.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Evian,beverage,$4.00,NATIVE,French mineral water
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Perrier,beverage,$4.95,NATIVE,French mineral water
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Sirop Monin,beverage,$1.50,NATIVE,French syrup house
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Assorted Fountain Beverages - Large,beverage,$4.79,GENERIC,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Jus D'Orange,beverage,$6.95,GENERIC,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Milk,beverage,$4.25,GENERIC,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,The,beverage,$3.95,GENERIC,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Cabernet Sauvignon,beverage,$9.50,NATIVE,French wine
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Chardonnay,beverage,$8.95,NATIVE,French wine
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Champagne,beverage,$21.95,NATIVE,
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Kronenbourg 1664,beverage,$9.95,NATIVE,French brewery
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Frose,beverage,$15.95,ADAPTED,frozen rose is an American bar invention
+France,Les Halles Boulangerie-Patisserie,quick service,no,$,open,Mimosa,beverage,$12.95,GENERIC,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Butter & Sugar Crepe,dessert,$6.95,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Housemade Hazelnut & Chocolate Spread Crepe,dessert,$8.95,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Red Berries Crepe,dessert,$8.75,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Vanilla or Chocolate Ice Cream Crepe,dessert,$8.50,ADAPTED,crepe filled with ice cream
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,"Bechamel, Cheese & Ham Galette",entree,$12.50,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Cream of Brie Cheese Galette,entree,$11.95,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Ratatouille Galette,entree,$10.25,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Single scoop Ice Cream,dessert,$7.95,GENERIC,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Milkshakes,dessert,$9.95,GENERIC,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Cidre Brut,beverage,$6.75,NATIVE,French hard cider
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Cidre Doux,beverage,$6.75,NATIVE,French hard cider
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Cider Rose,beverage,$7.95,NATIVE,French hard cider
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Champagne Malard Excellence Brut,beverage,$21.00,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Kronenbourg 1664 French Beer,beverage,$9.95,NATIVE,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Mimosa Sparkling Wine & Orange Juice,beverage,$12.75,GENERIC,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Cabernet Sauvignon,beverage,$9.50,NATIVE,French wine
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,"Chardonnay, Chefs Selection G. Duboeuf",beverage,$8.95,NATIVE,French wine
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,"Merlot, Chefs Selection G. Duboeuf",beverage,$8.50,NATIVE,French wine
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,"Rose, Cotes de Provence",beverage,$15.25,NATIVE,French wine
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Assorted Beverages,beverage,$4.75,GENERIC,
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Evian Natural Spring Water,beverage,$4.00,NATIVE,French mineral water
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Perrier Sparkling Mineral Water,beverage,$4.95,NATIVE,French mineral water
+France,Crepes A Emporter by La Creperie de Paris,kiosk/cart,no,$,open,Regular Coffee,beverage,$3.95,GENERIC,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Single Scoop,dessert,$7.95,NATIVE,artisan French glacier
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Double Scoop,dessert,$9.95,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Flavored Waffle Cones,dessert,$2.00,ADAPTED,waffle cone is an American format
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Cafe Glace,dessert,$9.50,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Coupe du Dimanche,dessert,$10.95,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Croque Glace,dessert,$10.95,ADAPTED,house creation: ice cream pressed in brioche
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Macaron (ice cream),dessert,$8.95,ADAPTED,macaron used as an ice cream sandwich
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Ice Cream Martini,beverage,$14.95,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Evian,beverage,$3.75,NATIVE,French mineral water
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Caramel Fleur de Sel Ice Cream,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Chocolate Ice Cream,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Coffee Ice Cream,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Praline,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Vanilla Ice Cream,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Raspberry Sorbet,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Strawberry Sorbet,dessert,No price published,NATIVE,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Caramelized Pecan Ice Cream,dessert,No price published,ADAPTED,pecan is North American
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Cinnamon Caramel Apple Ice Cream,dessert,No price published,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Coconut-White Chocolate Ice Cream,dessert,No price published,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Mango Sorbet,dessert,No price published,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Mint-Chocolate Ice Cream,dessert,No price published,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Yogurt & Blueberry Ice Cream,dessert,No price published,ADAPTED,
+France,L'Artisan des Glaces,kiosk/cart,no,$,open,Pina Colada Sorbet,dessert,No price published,GENERIC,
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,"Champagne Malard Excellence, Brut",beverage,$21.95,NATIVE,
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Kir Royal,beverage,$22.95,NATIVE,
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Kronenbourg 1664,beverage,$9.95,NATIVE,French brewery
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Bordeaux Chateau La Graviere,beverage,$10.50,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Cotes du Rhone J.L. Colombo,beverage,$12.25,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Pouilly-Fuisse,beverage,$21.50,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Beaujolais Duboeuf,beverage,$11.55,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Rose Cotes de Provence,beverage,$15.25,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Vouvray Sauvion,beverage,$12.50,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Cabernet,beverage,$9.00,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Chardonnay,beverage,$8.50,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Merlot,beverage,$8.50,NATIVE,French wine
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Citron Slush,beverage,$14.95,ADAPTED,wine slush is an American park format
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Orange Slush,beverage,$14.95,ADAPTED,
+France,Les Vins des Chefs de France,kiosk/cart,no,$,open,Le Geant Slush,beverage,$21.95,ADAPTED,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Coronation Salad,appetizer,$13.00,NATIVE,coronation chicken is a British dish
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Scotch Egg,appetizer,$16.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Bangers and Mash,entree,$29.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Fish and Chips,entree,$32.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Shepherd's Pie,entree,$30.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Cottage Pie,entree,$30.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Tikka Masala,entree,$25.00,NATIVE,chicken tikka masala was created in Britain
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Sticky Toffee Pudding,dessert,$10.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Eton Mess,dessert,$9.00,NATIVE,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Plant-based Seasonal Gelato,dessert,$8.25,GENERIC,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,House Salad,appetizer,No price published,GENERIC,kids menu
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Fish and Chips,entree,$15.50,NATIVE,kids menu
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Grilled Chicken,entree,$15.50,GENERIC,kids menu
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Fruit Salad,dessert,No price published,GENERIC,kids menu
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Plant-based Seasonal Gelato,dessert,No price published,GENERIC,kids menu
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Chocolate Caterpillar Cake,dessert,No price published,NATIVE,references the British supermarket caterpillar cake
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Specialty Character Drink,beverage,$7.00,GENERIC,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Courvoisier VS,beverage,$16.50,GENERIC,French cognac
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Dr. Loosen, Dr. L. Riesling, Mosel",beverage,$56.00 bottle,GENERIC,German wine
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Kim Crawford Sauvignon Blanc, Marlborough",beverage,$74.00 bottle,GENERIC,New Zealand wine
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Maschio Prosecco, Veneto",beverage,$52.00 bottle,GENERIC,Italian wine
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Mirassou Pinot Noir, California",beverage,$56.00 bottle,GENERIC,Californian wine
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Opici Family Red Sangria, Spain",beverage,$14.00,GENERIC,Spanish
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,"Simi Cabernet Sauvignon, Sonoma County",beverage,$79.00 bottle,GENERIC,Californian wine
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,BrewDog Punk IPA,beverage,$12.00,NATIVE,Scottish brewery
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Old Speckled Hen English Pale Ale,beverage,$12.00,NATIVE,English brewery
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Strongbow Hard Cider,beverage,$12.00,NATIVE,English cider
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Imperial Sampler,beverage,$16.25,NATIVE,sampler of British and Irish draughts
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Guinness Stout,beverage,$12.00,UNCLEAR,"Irish, not British; stocked as part of the pub's British-Isles range"
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Harp Lager,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Sullivan's Maltings Irish Ale,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Irish Whiskey Flight,beverage,$21.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Johnnie Walker Flight,beverage,$23.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Single Malt Flight,beverage,$24.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,The Macallan Flight,beverage,$30.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Glenkinchie 12 yr,beverage,$20.25,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Johnnie Walker Blue,beverage,$45.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Lagavulin 16 yr,beverage,$26.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Oban 14 yr,beverage,$27.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,The Macallan 12 yr,beverage,$21.25,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,The Macallan 18 yr,beverage,$45.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Pimm's Cup,beverage,$15.50,NATIVE,British summer classic
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Cider and Fireball,beverage,$16.50,ADAPTED,English cider with American cinnamon whisky
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,English Rose,beverage,$15.50,ADAPTED,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Indigo Hibiscus,beverage,$17.50,ADAPTED,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Leaping Leprechaun,beverage,$16.50,ADAPTED,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Welsh Dragon,beverage,$14.50,ADAPTED,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Twinings Hot Tea,beverage,$4.49,NATIVE,British tea house
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Assorted Fountain Beverages,beverage,$4.99,GENERIC,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Freshly Brewed Joffrey's Coffee,beverage,$4.49,GENERIC,
+United Kingdom,Rose & Crown Dining Room,table service,no,$$,open,Iced Tea,beverage,$4.99,GENERIC,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Black Velvet Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Cider & Blackcurrant Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Golden Fox Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Half & Half Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Irish Hen Imperial Pint,beverage,$12.00,NATIVE,British and Irish pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Shandy Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Snake Bite Imperial Pint,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,The Black Malt,beverage,$12.00,NATIVE,British pub blend
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Dr. Loosen, Dr. L. Riesling, Mosel",beverage,$14.00 glass,GENERIC,German wine
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Kim Crawford Sauvignon Blanc, Marlborough",beverage,$17.00 glass,GENERIC,New Zealand wine
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Maschio Prosecco, Veneto",beverage,$12.00 glass,GENERIC,Italian wine
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Mirassou Pinot Noir, California",beverage,$13.00 glass,GENERIC,Californian wine
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Opici Family Red Sangria, Spain",beverage,$14.00 glass,GENERIC,Spanish
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,"Simi Cabernet Sauvignon, Sonoma County",beverage,$20.00 glass,GENERIC,Californian wine
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,BrewDog Punk IPA,beverage,$12.00,NATIVE,Scottish brewery
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Old Speckled Hen English Pale Ale,beverage,$12.00,NATIVE,English brewery
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Strongbow Hard Cider,beverage,$12.00,NATIVE,English cider
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Imperial Sampler,beverage,$16.25,NATIVE,sampler of British and Irish draughts
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Guinness Stout,beverage,$12.00,UNCLEAR,"Irish, not British; stocked as part of the pub's British-Isles range"
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Harp Lager,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Sullivan's Maltings Irish Ale,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Irish Whiskey Flight,beverage,$21.00,UNCLEAR,"Irish, not British"
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Johnnie Walker Flight,beverage,$23.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Single Malt Flight,beverage,$24.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,The Macallan Flight,beverage,$30.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Glenkinchie 12 yr,beverage,$20.25,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Johnnie Walker Blue,beverage,$45.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Lagavulin 16 yr,beverage,$26.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Oban 14 yr,beverage,$27.00,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,The Macallan 12 yr,beverage,$21.25,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,The Macallan 18 yr,beverage,$45.50,NATIVE,Scotch whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Pimm's Cup,beverage,$15.50,NATIVE,British summer classic
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Cider and Fireball,beverage,$16.50,ADAPTED,English cider with American cinnamon whisky
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,English Rose,beverage,$15.50,ADAPTED,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Indigo Hibiscus,beverage,$17.50,ADAPTED,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Leaping Leprechaun,beverage,$16.50,ADAPTED,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Welsh Dragon,beverage,$14.50,ADAPTED,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Twinings Hot Tea,beverage,$4.49,NATIVE,British tea house
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Assorted Fountain Beverages,beverage,$4.99,GENERIC,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Freshly Brewed Joffrey's Coffee,beverage,$4.49,GENERIC,
+United Kingdom,Rose & Crown Pub,lounge/bar,no,$,open,Iced Tea,beverage,$4.99,GENERIC,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Beer-battered Fish and Chips,entree,$14.49,NATIVE,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Chips,side,$5.49,NATIVE,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Cuties Mandarin 3-pack,side,$4.19,GENERIC,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Twinings English Breakfast Tea,beverage,$4.79,NATIVE,British tea house
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Harp Lager - Ireland,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Sullivan's Maltings Irish Red Ale,beverage,$12.00,UNCLEAR,"Irish, not British"
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Assorted Fountain Beverages,beverage,$4.79,GENERIC,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+United Kingdom,Yorkshire County Fish Shop,quick service,no,$,open,Freshly Brewed Joffrey's Coffee Regular,beverage,$4.79,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Canadian Cheddar Cheese Soup,appetizer,$15.00,NATIVE,house signature built on Canadian cheddar
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Signature Poutine,appetizer,$19.00,NATIVE,poutine is Quebecois
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Prince Edward Island Mussels,appetizer,$24.00,NATIVE,named Canadian provenance; lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Artisanal Cheese Plate,appetizer,$21.00,UNCLEAR,cheese origins not published
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Escargot en Croute,appetizer,$20.00,UNCLEAR,a French dish; arguably within the pavilion's Quebecois framing
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Land Greens Salad,appetizer,$16.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Shrimp Cocktail,appetizer,$23.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Steakhouse Wedge Salad,appetizer,$16.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Wagyu Steak Tartare,appetizer,$20.00,GENERIC,steak tartare is European
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Caesar Salad,appetizer,$16.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,7-oz Bison Strip Loin,entree,$59.00,NATIVE,bison is a North American and Canadian meat
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Canadian Chinook King Salmon,entree,$53.00,NATIVE,named Canadian provenance
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,12-oz. New York Strip Steak,entree,$62.00,GENERIC,American steakhouse cut
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,14-oz Dry-aged Duroc Pork Chop,entree,$49.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,16-oz. Rib-Eye Steak,entree,$62.00,GENERIC,American steakhouse cut
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,28 oz. Rib-Eye Steak for Two,entree,$120.00,GENERIC,American steakhouse cut
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,7-oz Filet Mignon,entree,$65.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Le Cellier Filet Mignon,entree,$65.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Braised Lamb Shank,entree,$51.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Heritage Chicken,entree,$41.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Roasted Cauliflower ""Steak""",entree,$38.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,12-oz Prime New York Strip Steak,entree,$62.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Almond-Crusted Salmon,entree,$53.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Miso-roasted Cabbage,entree,$39.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Roasted Chicken,entree,$41.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Seafood Cioppino,entree,$54.00,GENERIC,cioppino is Italian-American; lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Lump Crab Oscar,entree,$19.00,GENERIC,enhancement
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Oysters Rockefeller,entree,$22.00,GENERIC,New Orleans dish; enhancement
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Point Reyes Blue Cheese,entree,$6.00,GENERIC,Californian cheese; enhancement
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Sauce Flight,entree,$9.00,GENERIC,enhancement
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Garlic Shrimp,entree,$18.00,GENERIC,enhancement; lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Hand-cut Pomme Frites,side,$10.50,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Braised Mushrooms,side,$12.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Crispy Brussels Sprouts,side,$10.50,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Macaroni & Cheese,side,$14.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Mashed Potatoes,side,$10.50,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Roasted Cauliflower,side,$10.50,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Creamed Spinach,side,$12.00,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Butter Tart,dessert,$15.00,NATIVE,the butter tart is Canadian; lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Maple Creme Brulee,dessert,$15.00,ADAPTED,Canadian maple in a French dessert
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Chocolate Cheesecake,dessert,$15.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,The Wine Cellar's Banana Split,dessert,$13.00,GENERIC,
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Boutique Collection,dessert,$16.00,UNCLEAR,contents not published
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Cheddar-Bacon Soup,appetizer,$5.25,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Garden Salad,appetizer,$5.25,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Grilled Cheese Sandwich,entree,$14.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Grilled Chicken,entree,$16.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Grilled Steak,entree,$19.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Macaroni & Cheese,entree,$14.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Pan-Roasted Fish,entree,$19.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Specialty Character Drink,beverage,$7.00,GENERIC,kids menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,La Fin du Monde - Draft,beverage,$13.00,NATIVE,"Unibroue, Quebec"
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Labatt Blue Canadian Pilsener,beverage,$10.50,NATIVE,Canadian brewery
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Labatt Blue Light Canadian Pilsener,beverage,$10.50,NATIVE,Canadian brewery
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Molson Canadian Lager,beverage,$9.75,NATIVE,Canadian brewery
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Moosehead Lager - Draft,beverage,$9.25,NATIVE,Canadian brewery
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Le Cellier Bloody Caesar,beverage,$18.50,NATIVE,the Caesar is Canada's national cocktail
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Canadian Coffee,beverage,$14.50,NATIVE,Canadian whisky coffee
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Le Cellier Icewine Flight,beverage,$25.00,NATIVE,Canadian icewine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Chateau des Charmes Vidal Icewine, Niagara Peninsula",beverage,$22.00,NATIVE,Canadian icewine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Inniskillin Vidal Icewine, Niagara Peninsula",beverage,$32.00,NATIVE,Canadian icewine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Icewine Martini,beverage,$19.50,ADAPTED,Canadian icewine in a martini; lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Ottawa Apple,beverage,$16.50,ADAPTED,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Espresso Martini,beverage,$15.50,GENERIC,lunch menu
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,Rekorderlig Pear Hard Cider,beverage,$10.50,GENERIC,Swedish cider
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Meeker FroZin Zinfandel Icewine, Sonoma County",beverage,$25.00,GENERIC,"Californian, not Canadian"
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Chateau La Tour Blanche Emotions, Sauternes Bordeaux",beverage,$17.00,GENERIC,French wine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Dutton Goldfield Pinot Noir, Russian River Valley",beverage,$29.00,GENERIC,Californian wine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Frank Family Cabernet, Napa Valley",beverage,$36.00,GENERIC,Californian wine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Les Cadrans de Lassegue Merlot, Saint-Emilion Grand Cru, Bordeaux",beverage,$22.00,GENERIC,French wine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Silverado Vineyards Chardonnay, Los Carneros",beverage,$20.00,GENERIC,Californian wine
+Canada,Le Cellier Steakhouse,table service,yes,$$$,open,"Groth Oakville Cabernet Sauvignon, Napa Valley",beverage,$34.00,GENERIC,Californian wine; lunch menu
+Canada,La Poutinerie,quick service,no,$,open,Quebec: L'Authentique,entree,$10.99,NATIVE,classic Quebecois poutine
+Canada,La Poutinerie,quick service,no,$,open,Montreal: Viande Fumee,entree,$12.49,NATIVE,Montreal smoked meat poutine
+Canada,La Poutinerie,quick service,no,$,open,Spiced Apple Slushy,beverage,$6.29,GENERIC,
+Canada,La Poutinerie,quick service,no,$,open,Assorted Coca-Cola Fountain Beverages,beverage,$4.79,GENERIC,
+Canada,La Poutinerie,quick service,no,$,open,DASANI Bottled Water,beverage,$4.25,GENERIC,
+Canada,La Poutinerie,quick service,no,$,open,smartwater,beverage,$6.25,GENERIC,
+Canada,La Poutinerie,quick service,no,$,open,Spiced Apple Mule,beverage,$14.50,ADAPTED,mule format is American
+Canada,La Poutinerie,quick service,no,$,open,Unibroue La Fin du Monde Belgian-style Tripel Ale,beverage,$14.00,NATIVE,Quebec brewery
+Canada,La Poutinerie,quick service,no,$,open,Molson Canadian Lager,beverage,$10.75,NATIVE,Canadian brewery
+Canada,La Poutinerie,quick service,no,$,open,Jackson-Triggs Reserve Red Blend,beverage,$12.00,NATIVE,Canadian winery
+Canada,La Poutinerie,quick service,no,$,open,"Domaine Ste. Michelle Brut, Columbia Valley",beverage,$7.50,GENERIC,Washington State wine
+Canada,Canada Popcorn Cart,kiosk/cart,no,$,open,,,,,MENU NOT OBTAINABLE - no accessible aggregator publishes an itemised menu for this cart. Disney's EPCOT dining page lists it as a quick-service popcorn cart at price tier $.

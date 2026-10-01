@@ -1,0 +1,281 @@
+{
+ "pavilions": [
+  "Mexico",
+  "Norway",
+  "China",
+  "Germany",
+  "Italy",
+  "The American Adventure",
+  "Japan",
+  "Morocco",
+  "France",
+  "United Kingdom",
+  "Canada"
+ ],
+ "tier1": {
+  "Mexico": [
+   "La Princesa de Cristal - Mexico",
+   "San Angel Inn Restaurante",
+   "La Hacienda de San Angel",
+   "La Cantina de San Angel",
+   "El Ranchito del Norte",
+   "La Cava del Tequila",
+   "La Tienda Encantada",
+   "Plaza de los Amigos",
+   "Choza de Margarita",
+   "Gran Fiesta Tour",
+   "Three Caballeros",
+   "Mexico pavilion",
+   "Mariachi Cobre",
+   "San Angel Inn",
+   "the pyramid",
+   "San Angel",
+   "La Cava"
+  ],
+  "Norway": [
+   "Akershus Royal Banquet Hall",
+   "Kringla Bakeri og Kafe",
+   "Frozen Ever After",
+   "Norway pavilion",
+   "Royal Sommerhus",
+   "Anna and Elsa",
+   "school bread",
+   "Stave Church",
+   "The Fjording",
+   "Maelstrom",
+   "Akershus",
+   "Kringla"
+  ],
+  "China": [
+   "House of the Whispering Willows",
+   "Jeweled Dragon Acrobats",
+   "Nine Dragons Restaurant",
+   "House of Good Fortune",
+   "Reflections of China",
+   "Lotus Blossom Cafe",
+   "Temple of Heaven",
+   "China pavilion",
+   "Wondrous China",
+   "Lotus Blossom",
+   "Nine Dragons",
+   "Joy of Tea"
+  ],
+  "Germany": [
+   "Entertainment at Germany Gazebo",
+   "Oktoberfest Musikanten",
+   "Biergarten Restaurant",
+   "Die Weihnachts Ecke",
+   "Germany pavilion",
+   "the model train",
+   "Karamell-Kuche",
+   "Der Teddybar",
+   "Biergarten",
+   "Sommerfest",
+   "Stein Haus",
+   "Volkskunst",
+   "Weinkeller",
+   "Glaskunst",
+   "Karamell"
+  ],
+  "Italy": [
+   "Via Napoli Ristorante e Pizzeria",
+   "Tutto Gusto Wine Cellar",
+   "Tutto Italia Ristorante",
+   "La Bottega Italiana",
+   "Sergio the juggler",
+   "Gelateria Toscana",
+   "Enoteca Castello",
+   "Il Bel Cristallo",
+   "Pizza al Taglio",
+   "Italy pavilion",
+   "Tutto Italia",
+   "Ziti Sisters",
+   "Tutto Gusto",
+   "Via Napoli",
+   "Sergio"
+  ],
+  "The American Adventure": [
+   "Regal Eagle Smokehouse: Craft Drafts & Barbecue",
+   "American Heritage Gallery",
+   "Regal Eagle Smokehouse",
+   "The American Adventure",
+   "American Adventure",
+   "Fife & Drum Tavern",
+   "Spirit of America",
+   "Voices of Liberty",
+   "Block and Hans",
+   "Art of Disney",
+   "Fife and Drum",
+   "Block & Hans",
+   "Fife & Drum",
+   "Funnel Cake",
+   "Regal Eagle"
+  ],
+  "Japan": [
+   "Mitsukoshi Department Store",
+   "Shiki-Sai: Sushi Izakaya",
+   "Japan pavilion",
+   "Katsura Grill",
+   "Tokyo Dining",
+   "Bijutsu-kan",
+   "Kabuki Cafe",
+   "Mitsukoshi",
+   "Takumi Tei",
+   "Takumi-Tei",
+   "Teppan Edo",
+   "the pagoda",
+   "Matsuriza",
+   "Shiki-Sai",
+   "Miyuki"
+  ],
+  "Morocco": [
+   "Tangierine Cafe: Flavors of the Medina",
+   "Gallery of Arts and History",
+   "Marketplace in the Medina",
+   "Restaurant Marrakesh",
+   "Oasis Sweets & Sips",
+   "Morocco pavilion",
+   "Spice Road Table",
+   "Tangierine Cafe",
+   "Souk Al Magreb",
+   "Souk-Al-Magreb",
+   "Atlas Fusion",
+   "Oasis Sweets",
+   "Spice Road",
+   "Tangierine",
+   "Fez House",
+   "Koutoubia",
+   "Mo'Rockin",
+   "MoRockin"
+  ],
+  "France": [
+   "Crepes A Emporter by La Creperie de Paris",
+   "Les Halles Boulangerie-Patisserie",
+   "Les Vins des Chefs de France",
+   "Beauty and the Beast Sing",
+   "Impressions de France",
+   "Ratatouille Adventure",
+   "L'Artisan des Glaces",
+   "La Creperie de Paris",
+   "Artisan des Glaces",
+   "Remy's Ratatouille",
+   "Plume et Palette",
+   "Chefs de France",
+   "France pavilion",
+   "Serveur Amusant",
+   "the grey stuff",
+   "Monsieur Paul",
+   "La Creperie",
+   "Les Halles"
+  ],
+  "United Kingdom": [
+   "Yorkshire County Fish Shop",
+   "Rose & Crown Dining Room",
+   "Command Performance",
+   "British Revolution",
+   "Sportsman's Shoppe",
+   "The Crown & Crest",
+   "British Invasion",
+   "Rose & Crown Pub",
+   "Yorkshire County",
+   "Crown and Crest",
+   "Rose and Crown",
+   "Crown & Crest",
+   "EPCOT Pianist",
+   "Queen's Table",
+   "The Tea Caddy",
+   "Rose & Crown",
+   "UK pavilion"
+  ],
+  "Canada": [
+   "Entertainment at Canada Mill Stage",
+   "Le Cellier Steakhouse",
+   "Canada Far and Wide",
+   "Canada Popcorn Cart",
+   "Victoria Gardens",
+   "Canada pavilion",
+   "Hotel du Canada",
+   "the totem pole",
+   "La Poutinerie",
+   "Trading Post",
+   "Le Cellier",
+   "Off Kilter",
+   "O Canada"
+  ]
+ },
+ "tier2": {
+  "Mexico": [
+   "Mexico",
+   "Mexican"
+  ],
+  "Norway": [
+   "Norway",
+   "Norwegian"
+  ],
+  "China": [
+   "China",
+   "Chinese"
+  ],
+  "Germany": [
+   "Germany",
+   "German"
+  ],
+  "Italy": [
+   "Italy",
+   "Italian"
+  ],
+  "The American Adventure": [
+   "America",
+   "American",
+   "the USA pavilion"
+  ],
+  "Japan": [
+   "Japan",
+   "Japanese"
+  ],
+  "Morocco": [
+   "Morocco",
+   "Moroccan"
+  ],
+  "France": [
+   "France",
+   "French",
+   "Eiffel Tower"
+  ],
+  "United Kingdom": [
+   "UK",
+   "United Kingdom",
+   "Britain",
+   "British",
+   "England",
+   "English"
+  ],
+  "Canada": [
+   "Canada",
+   "Canadian"
+  ]
+ },
+ "epcot_context": [
+  "epcot",
+  "world showcase",
+  "walt disney world",
+  "wdw",
+  "disney world",
+  "the parks",
+  "park hopper",
+  "genie",
+  "lightning lane",
+  "magic kingdom",
+  "animal kingdom",
+  "hollywood studios",
+  "food and wine",
+  "food & wine",
+  "flower and garden",
+  "festival of the arts",
+  "drinking around the world",
+  "drink around the world",
+  "the promenade",
+  "international gateway"
+ ],
+ "dropped_as_ambiguous": {}
+}

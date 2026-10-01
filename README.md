@@ -160,7 +160,7 @@ noticeably on its own.
 
 **Prix fixe and buffet venues are not comparable on item count.** A buffet
 publishes as eight stations. Biergarten, Akershus, Takumi-Tei and Monsieur
-Paul all under-report against an à la carte menu of the same size.
+Paul all under-report against an a la carte menu of the same size.
 
 **Entertainment is seven sampled dates.** Acts rotate, with most taking two
 days off a week, so a single day would misrepresent any pavilion. Seven dates
@@ -184,5 +184,3 @@ provenance primarily from D23, with source tiers and disagreements recorded in
 `docs/architecture-notes.md`. Reddit posts via the Arctic Shift archive.
 
 No post text, titles, usernames or links are published in this repository.
-#   e p c o t - w o r l d - s h o w c a s e  
- 

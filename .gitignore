@@ -1,0 +1,90 @@
+# .gitignore for the EPCOT World Showcase pavilion study
+#
+# THE RULE THIS FILE ENFORCES
+# Data is excluded by default and re-included only by name. A denylist only
+# protects you from the files you thought of. An allowlist protects you from
+# the ones you add next month and forget about, which is the case that
+# actually bites.
+#
+# The six files below are the curated dataset. Anything else that lands in
+# data/ stays out until someone adds it here deliberately.
+
+
+# ---------------------------------------------------------------------------
+# Everything data shaped is excluded first.
+# ---------------------------------------------------------------------------
+*.csv
+*.jsonl
+raw/
+scratch/
+
+
+# ---------------------------------------------------------------------------
+# The curated dataset, named one file at a time.
+# ---------------------------------------------------------------------------
+!data/architecture.csv
+!data/dining.csv
+!data/entertainment.csv
+!data/pavilions.csv
+!data/rankings.csv
+!data/shops.csv
+
+
+# ---------------------------------------------------------------------------
+# Files that quote post text. Named as well as covered above, because getting
+# this wrong publishes other people's writing.
+# ---------------------------------------------------------------------------
+audit_sample.csv
+labels_qa.csv
+data/segments_local.jsonl
+data/labels_raw.jsonl
+data/epcot_posts.jsonl
+data/segment_index.csv
+
+
+# ---------------------------------------------------------------------------
+# Working copies left in the project root. The canonical versions live in
+# sentiment/ and data/. Delete these when convenient; ignored so that a
+# git add -A cannot commit a second copy.
+# ---------------------------------------------------------------------------
+/anchors.json
+/audit_attribution.py
+/fetch_repcot.py
+/label_pavilions.py
+/pavilion_anchors.py
+/score_sentiment.py
+/segment_attribute.py
+/epcot-dining.csv
+/epcot-entertainment.csv
+/epcot-shops.csv
+/epcot-rankings-pass1.csv
+/epcot-rankings-final.csv
+/sentiment_ranking.csv
+
+
+# ---------------------------------------------------------------------------
+# Secrets. The API key lives in an environment variable and nowhere else.
+# ---------------------------------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+kaggle.json
+.kaggle/
+
+
+# ---------------------------------------------------------------------------
+# Python and editors.
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
