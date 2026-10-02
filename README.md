@@ -184,3 +184,6 @@ provenance primarily from D23, with source tiers and disagreements recorded in
 `docs/architecture-notes.md`. Reddit posts via the Arctic Shift archive.
 
 No post text, titles, usernames or links are published in this repository.
+
+Kaggle: https://www.kaggle.com/datasets/chadwambles/epcot-world-showcase
+Tableau Dashboard: https://public.tableau.com/views/EPCOTWorldShowcaseThreeRankingsThatDisagree/EPCOTArounttheWorldDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
