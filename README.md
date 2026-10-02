@@ -105,6 +105,10 @@ data/
   entertainment.csv      acts by sampled date, with specificity and evidence
   architecture.csv       40 real building references with source and tier
   shops.csv              Disney's own shop directory, as a snapshot
+notebooks/
+  epcot-world-showcase-starter.ipynb   loads the data, draws the three
+                         rankings against each other, and checks whether any
+                         of the correlation survives the sample size
 docs/
   data-dictionary.md     every column in every file
   inventory.md           attractions, films, galleries, shops per pavilion

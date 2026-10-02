@@ -18,6 +18,11 @@
 raw/
 scratch/
 
+# Build artifact. build_kaggle_metadata.py rebuilds it from data/, and it is
+# what push_kaggle.py uploads. Staging separately means a working file in
+# data/ cannot reach Kaggle by sitting in the wrong folder.
+kaggle_upload/
+
 
 # ---------------------------------------------------------------------------
 # The curated dataset, named one file at a time.
@@ -88,3 +93,11 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+# ---------------------------------------------------------------------------
+# Derived and transient. tableau/ is built from data/ by build_tableau.py,
+# so it is output, not source. The .twbr is Tableau crash recovery.
+# ---------------------------------------------------------------------------
+tableau/
+*.twbr
+~*.twb*
+data/dataset-metadata.json
